@@ -1,0 +1,1 @@
+Na aula baixamos e configuramos os editores de código PyCharm e QPython3. Dispenso anotações.

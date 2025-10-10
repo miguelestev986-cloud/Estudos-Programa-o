@@ -1,0 +1,9 @@
+Escreva um programa que converta uma temperatura digitando em graus Celsius e converta para graus Fahrenheit.
+
+Minha resolução:
+
+```python
+gc = float(input('Digite a temperatura em celsius:'))  
+f = gc * 1.8 + 32  
+print(f'A temperatura de {gc:.1f}°C corresponde a {f:.1f}°F')
+```
