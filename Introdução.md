@@ -1,0 +1,13 @@
+## ***Oque é a Linguagem C
+
+A linguagem C é uma linguagem de nível médio[^1] e de propósito geral criada por Dennis Ritchie, em 1972, no Laboratório Bell. Ela é amplamente empregada em sistemas embarcados[^2], sistemas operacionais, drivers e software de alto desempenho, onde a eficiência é crucial.
+## ***Por que estudar C
+
+A linguagem te força a entender como o computador opera por baixo dos panos, te tornando mais eficiente e consciente do uso de recursos. Além disso, por ser a linguagem considerada "mãe" de linguagens modernas, ela facilita a aprendizagem de linguagens derivadas ou influenciadas.
+
+### Notas de rodapé
+
+[^1]: O termo baixo nível se refere a linguagens que têm pouca ou nenhuma abstração( nesse contexto, simplificação da linguagem binária para linguagem humana). São as que estão mais próximas do hardware e do processador.
+
+[^2]: São sistemas computacionais projetados para realizar uma função específica dentro de um dispositivo maior. Por exemplo, um micro-ondas tem um sistema embarcado que controla o tempo, potência e sensores.
+
