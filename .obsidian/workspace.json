@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C/1.4 Constantes Simbólicas.md",
+                "file": "C/Capítulo 1/1.5.1 Input e Output de characters.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.4 Constantes Simbólicas"
+              "title": "1.5.1 Input e Output de characters"
             }
           }
         ],
@@ -206,19 +206,21 @@
   },
   "active": "ba5d87fd4d696317",
   "lastOpenFiles": [
-    "C/1.5.1 Input e Output de characters.md",
-    "C/1.4 Constantes Simbólicas.md",
-    "C/1.1 Começando.md",
-    "C/1.2 Variáveis e Expressões Aritméticas.md",
-    "C/1.3 A instrução For.md",
-    "Sem título.base",
-    "C/C.md",
-    "Obsidian.md",
+    "C/The C Programming Language.md",
     "Como enviar alterações.md",
-    "The C Programming Language.md",
+    "Obsidian.md",
+    "C/C.md",
+    "C/Capítulo 1/Capítulo 1.md",
+    "C/Capítulo 1/1. Introdução.md",
+    "C/Capítulo 1/1.4 Constantes Simbólicas.md",
+    "C/Capítulo 1",
+    "C/Capítulo 1/1.5.1 Input e Output de characters.md",
+    "C/Capítulo 1/1.1 Começando.md",
+    "C/Capítulo 1/1.2 Variáveis e Expressões Aritméticas.md",
+    "C/Capítulo 1/1.3 A instrução For.md",
+    "Sem título.base",
     "printfEOFvalue.c",
     "getchar0or1.c",
-    "C/1. Introdução.md",
     "C.md",
     "1.3 A instrução For.md",
     "1.2 Variáveis e Expressões Aritméticas.md",
@@ -242,7 +244,6 @@
     "Cursos/Harvard/CS50X/Desafio 0.canvas",
     "Cursos",
     "Python/Roadmap.canvas",
-    "Cursos/Harvard/CS50S",
     "Python/Curso em Vídeo/Mundo 1 Python/Sem título.canvas",
     "Sem título.canvas",
     "Daily/Sem título.canvas",
