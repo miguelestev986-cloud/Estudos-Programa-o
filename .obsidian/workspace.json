@@ -190,8 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,6 +206,7 @@
   },
   "active": "ba5d87fd4d696317",
   "lastOpenFiles": [
+    "ex01.10 1.c",
     "ex01.09 1.c",
     "C/Capítulo 1/1.5.1  Entrada e Saída de Caracteres.md",
     "C/Capítulo 1/1.5.3 Contando Linhas.md",
@@ -235,7 +235,6 @@
     "1. Introdução.md",
     "chatgpt.com.md",
     "C/The C Programming Language",
-    "Sem título",
     "C/Materiais de estudo.md",
     "Python/Curso em Vídeo/Curso em Vídeo.md",
     "Python/Curso em Vídeo/Mundo 1 Python/Aula 4.1 – Primeiros Comandos em Python3.md",
