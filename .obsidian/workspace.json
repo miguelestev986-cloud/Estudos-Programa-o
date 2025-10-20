@@ -190,7 +190,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,13 +207,14 @@
   },
   "active": "ba5d87fd4d696317",
   "lastOpenFiles": [
+    "ex01.09 1.c",
+    "C/Capítulo 1/1.5.1  Entrada e Saída de Caracteres.md",
+    "C/Capítulo 1/1.5.3 Contando Linhas.md",
+    "C/Capítulo 1/1.4 Constantes Simbólicas.md",
     "ex01.10.c",
     "ex01.09.c",
     "ex01.08.c",
     "contador_linha.c",
-    "C/Capítulo 1/1.4 Constantes Simbólicas.md",
-    "C/Capítulo 1/1.5.3 Contando Linhas.md",
-    "C/Capítulo 1/1.5.1  Entrada e Saída de Caracteres.md",
     "C/The C Programming Language.md",
     "Como enviar alterações.md",
     "Obsidian.md",
@@ -240,7 +242,6 @@
     "Python/Curso em Vídeo/Mundo 1 Python/Aula 3.1 – Instalando o Python3 e o IDLE.md",
     "Python/Curso em Vídeo/Mundo 1 Python/Aula 2.1 – Para que serve o Python.md",
     "Python/Curso em Vídeo/Mundo 1 Python/Aula 1.1 - Seja um Programador.md",
-    "Sem título 1.base",
     "Python/Curso em Vídeo/Python.md",
     "Cursos/Harvard/CS50X/Desafio 0.canvas",
     "Python/Roadmap.canvas",
