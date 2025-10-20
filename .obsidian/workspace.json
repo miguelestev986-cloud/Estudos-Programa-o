@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C/Capítulo 1/1.5.1 Input e Output de characters.md",
+                "file": "C/Capítulo 1/1.5.3 Contando Linhas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.5.1 Input e Output de characters"
+              "title": "1.5.3 Contando Linhas"
             }
           }
         ],
@@ -206,15 +206,16 @@
   },
   "active": "ba5d87fd4d696317",
   "lastOpenFiles": [
+    "C/Capítulo 1/1.4 Constantes Simbólicas.md",
+    "C/Capítulo 1/1.5.3 Contando Linhas.md",
+    "C/Capítulo 1/1.5.1  Entrada e Saída de Caracteres.md",
     "C/The C Programming Language.md",
     "Como enviar alterações.md",
     "Obsidian.md",
     "C/C.md",
     "C/Capítulo 1/Capítulo 1.md",
     "C/Capítulo 1/1. Introdução.md",
-    "C/Capítulo 1/1.4 Constantes Simbólicas.md",
     "C/Capítulo 1",
-    "C/Capítulo 1/1.5.1 Input e Output de characters.md",
     "C/Capítulo 1/1.1 Começando.md",
     "C/Capítulo 1/1.2 Variáveis e Expressões Aritméticas.md",
     "C/Capítulo 1/1.3 A instrução For.md",
@@ -239,7 +240,6 @@
     "Python/Curso em Vídeo/Python.md",
     "C/W3 Schools/Sem título.md",
     "C",
-    "Planificación Semanal.md",
     "Python",
     "Cursos/Harvard/CS50X/Desafio 0.canvas",
     "Cursos",
