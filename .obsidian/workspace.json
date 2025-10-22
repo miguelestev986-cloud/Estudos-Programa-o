@@ -204,10 +204,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "50b697b67f4b71b4",
+  "active": "ba5d87fd4d696317",
   "lastOpenFiles": [
-    "C/Capítulo 1/1.5.4 Contando Palavras.md",
+    "C/Capítulo 1/1.5.1  Entrada e Saída de Caracteres.md",
     "C/Capítulo 1/1.5.2 loop for e variáveis long e double.md",
+    "C/Capítulo 1/1.4 Constantes Simbólicas.md",
+    "C/Capítulo 1/1.5.4 Contando Palavras.md",
     "C/Capítulo 1/1.5.3 Contando Linhas.md",
     "C/The C Programming Language.md",
     "ex01.12.c",
@@ -215,8 +217,6 @@
     "ex01.11.c",
     "ex01.10 1.c",
     "ex01.09 1.c",
-    "C/Capítulo 1/1.5.1  Entrada e Saída de Caracteres.md",
-    "C/Capítulo 1/1.4 Constantes Simbólicas.md",
     "ex01.10.c",
     "ex01.09.c",
     "ex01.08.c",
