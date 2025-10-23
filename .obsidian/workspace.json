@@ -103,7 +103,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "9ace18920b0143b7",
@@ -206,8 +207,8 @@
   },
   "active": "ba5d87fd4d696317",
   "lastOpenFiles": [
-    "C/Sintaxe básica/1.5.4 Contando Palavras.md",
     "C/Sintaxe básica/1.6 Arrays.md",
+    "C/Sintaxe básica/1.5.4 Contando Palavras.md",
     "C/Modern C/Level 0 Encounter/1.2 Compiling and running.md",
     "C/Sintaxe básica/1. Introdução.md",
     "C/Sintaxe básica/1.1 Começando.md",
