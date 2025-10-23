@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C/Modern C/Level 0 Encounter/1.2 Compiling and running.md",
+                "file": "C/Sintaxe básica/1.6 Arrays.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.2 Compiling and running"
+              "title": "1.6 Arrays"
             }
           }
         ],
@@ -206,24 +206,25 @@
   },
   "active": "ba5d87fd4d696317",
   "lastOpenFiles": [
-    "C/Sintaxe básica/1.1 Começando.md",
-    "C/Sintaxe básica/1. Introdução.md",
-    "C/Modern C/Modern C.md",
+    "C/Sintaxe básica/1.5.4 Contando Palavras.md",
+    "C/Sintaxe básica/1.6 Arrays.md",
     "C/Modern C/Level 0 Encounter/1.2 Compiling and running.md",
+    "C/Sintaxe básica/1. Introdução.md",
+    "C/Sintaxe básica/1.1 Começando.md",
+    "C/Sintaxe básica/1.2 Variáveis e Expressões Aritméticas.md",
+    "C/Sintaxe básica/1.5.1  Entrada e Saída de Caracteres.md",
+    "C/Sintaxe básica/1.5.2 Contando caracteres.md",
+    "C/Sintaxe básica/1.5.3 Contando Linhas.md",
+    "C/Modern C/Modern C.md",
     "C/Modern C/Level 0 Encounter/1.1 Imperative Programming.md",
     "C/Sintaxe básica/Sintaxe básica.md",
     "C/C.md",
     "C/Modern C/Level 0 Encounter",
     "C/Modern C",
     "C/Sem título.md",
-    "C/Sintaxe básica/1.5.4 Contando Palavras.md",
     "C/Capítulo 1/1.6 Arrays.md",
-    "C/Sintaxe básica/1.5.3 Contando Linhas.md",
     "C/Sintaxe básica/1.3 A instrução For.md",
     "C/Sintaxe básica/1.4 Constantes Simbólicas.md",
-    "C/Sintaxe básica/1.5.2 Contando caracteres.md",
-    "C/Sintaxe básica/1.2 Variáveis e Expressões Aritméticas.md",
-    "C/Sintaxe básica/1.5.1  Entrada e Saída de Caracteres.md",
     "C/The C Programming Language.md",
     "ex01.12.c",
     "ex01.10.exe",
@@ -241,7 +242,6 @@
     "1.1 Começando.md",
     "1. Introdução.md",
     "chatgpt.com.md",
-    "C/Materiais de estudo.md",
     "Cursos/Harvard/CS50X/Desafio 0.canvas",
     "Python/Roadmap.canvas",
     "Python/Curso em Vídeo/Mundo 1 Python/Sem título.canvas",
