@@ -103,8 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "9ace18920b0143b7",
@@ -207,7 +206,9 @@
   },
   "active": "ba5d87fd4d696317",
   "lastOpenFiles": [
+    "C/Sintaxe básica/1.8 Argumentos - Passagem por Valor.md",
     "C/Sintaxe básica/1.6 Arrays.md",
+    "C/Sintaxe básica/Sintaxe básica.md",
     "C/Sintaxe básica/1.5.4 Contando Palavras.md",
     "C/Modern C/Level 0 Encounter/1.2 Compiling and running.md",
     "C/Sintaxe básica/1. Introdução.md",
@@ -218,7 +219,6 @@
     "C/Sintaxe básica/1.5.3 Contando Linhas.md",
     "C/Modern C/Modern C.md",
     "C/Modern C/Level 0 Encounter/1.1 Imperative Programming.md",
-    "C/Sintaxe básica/Sintaxe básica.md",
     "C/C.md",
     "C/Modern C/Level 0 Encounter",
     "C/Modern C",
@@ -242,7 +242,6 @@
     "1.2 Variáveis e Expressões Aritméticas.md",
     "1.1 Começando.md",
     "1. Introdução.md",
-    "chatgpt.com.md",
     "Cursos/Harvard/CS50X/Desafio 0.canvas",
     "Python/Roadmap.canvas",
     "Python/Curso em Vídeo/Mundo 1 Python/Sem título.canvas",
