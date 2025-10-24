@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C/Sintaxe básica/1.6 Arrays.md",
+                "file": "C/Sintaxe básica/1.8 Argumentos - Passagem por Valor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.6 Arrays"
+              "title": "1.8 Argumentos - Passagem por Valor"
             }
           }
         ],
@@ -206,10 +206,10 @@
   },
   "active": "ba5d87fd4d696317",
   "lastOpenFiles": [
+    "C/Sintaxe básica/1.6 Arrays.md",
     "ex01.13.c",
     "C/Modern C/Level 0 Encounter/1.2 Compiling and running.md",
     "C/Modern C/Level 0 Encounter/1.1 Imperative Programming.md",
-    "C/Sintaxe básica/1.6 Arrays.md",
     "C/Sintaxe básica/1.8 Argumentos - Passagem por Valor.md",
     "C/Sintaxe básica/Sintaxe básica.md",
     "C/Sintaxe básica/1.5.4 Contando Palavras.md",
@@ -235,7 +235,6 @@
     "ex01.09 1.c",
     "ex01.10.c",
     "ex01.09.c",
-    "ex01.08.c",
     "Como enviar alterações.md",
     "Obsidian.md",
     "C.md",
