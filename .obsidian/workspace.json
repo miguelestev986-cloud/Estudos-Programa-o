@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C/Sintaxe básica/1.8 Argumentos - Passagem por Valor.md",
+                "file": "C/Sintaxe básica/1.6 Arrays.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.8 Argumentos - Passagem por Valor"
+              "title": "1.6 Arrays"
             }
           }
         ],
@@ -220,11 +220,11 @@
   },
   "active": "dccb3d6be4f80b99",
   "lastOpenFiles": [
+    "C/Sintaxe básica/1.8 Argumentos - Passagem por Valor.md",
     "C/Sintaxe básica/1.6 Arrays.md",
     "C/Sintaxe básica/1.5.4 Contando Palavras.md",
     "C/Sintaxe básica/1.5.3 Contando Linhas.md",
     "C/Sintaxe básica/1.5.2 Contando caracteres.md",
-    "C/Sintaxe básica/1.8 Argumentos - Passagem por Valor.md",
     "Metas/Metas.canvas",
     "C/Sintaxe básica/Sintaxe básica.md",
     "42 sp.jpg",
