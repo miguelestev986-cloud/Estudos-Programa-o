@@ -39,17 +39,14 @@
             "id": "dccb3d6be4f80b99",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Metas/Metas.canvas",
-                "viewState": {
-                  "x": 158.00131578947372,
-                  "y": -23.773684210526326,
-                  "zoom": -1.2889024916044733
-                }
+                "file": "C/Sintaxe básica/1.8 Argumentos - Passagem por Valor.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Metas"
+              "icon": "lucide-file",
+              "title": "1.8 Argumentos - Passagem por Valor"
             }
           }
         ],
@@ -223,17 +220,17 @@
   },
   "active": "dccb3d6be4f80b99",
   "lastOpenFiles": [
-    "C/Sintaxe básica/1.8 Argumentos - Passagem por Valor.md",
     "C/Sintaxe básica/1.6 Arrays.md",
-    "C/Sintaxe básica/Sintaxe básica.md",
+    "C/Sintaxe básica/1.5.4 Contando Palavras.md",
+    "C/Sintaxe básica/1.5.3 Contando Linhas.md",
+    "C/Sintaxe básica/1.5.2 Contando caracteres.md",
+    "C/Sintaxe básica/1.8 Argumentos - Passagem por Valor.md",
     "Metas/Metas.canvas",
+    "C/Sintaxe básica/Sintaxe básica.md",
     "42 sp.jpg",
     "Como enviar alterações.md",
     "Obsidian.md",
-    "C/Sintaxe básica/1.5.4 Contando Palavras.md",
-    "C/Sintaxe básica/1.5.3 Contando Linhas.md",
     "C/Sintaxe básica/1.5.1  Entrada e Saída de Caracteres.md",
-    "C/Sintaxe básica/1.5.2 Contando caracteres.md",
     "conflict-files-obsidian-git.md",
     "ex01.13.c",
     "C/Modern C/Level 0 Encounter/1.2 Compiling and running.md",
