@@ -39,17 +39,14 @@
             "id": "dccb3d6be4f80b99",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Metas/Metas.canvas",
-                "viewState": {
-                  "x": 870.5267732933711,
-                  "y": -91.447321667106,
-                  "zoom": 0.1332176693283773
-                }
+                "file": "C/Sintaxe básica/1.8 Argumentos - Passagem por Valor.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Metas"
+              "icon": "lucide-file",
+              "title": "1.8 Argumentos - Passagem por Valor"
             }
           }
         ],
@@ -223,9 +220,9 @@
   },
   "active": "dccb3d6be4f80b99",
   "lastOpenFiles": [
+    "Metas/Metas.canvas",
     "C/Sintaxe básica/1.8 Argumentos - Passagem por Valor.md",
     "C/Sintaxe básica/1.6 Arrays.md",
-    "Metas/Metas.canvas",
     "C/Sintaxe básica/Sintaxe básica.md",
     "C/Sintaxe básica/1.5.4 Contando Palavras.md",
     "C/Sintaxe básica/1.5.3 Contando Linhas.md",
