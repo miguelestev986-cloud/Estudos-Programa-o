@@ -10,3 +10,4 @@ Nota feita para linkar os conteúdos do capítulo 1 à 1.5.4 do livro The C Prog
 [[1.5.3 Contando Linhas]]
 [[1.5.4 Contando Palavras]]
 [[1.6 Arrays]]
+[[1.8 Argumentos - Passagem por Valor]]
