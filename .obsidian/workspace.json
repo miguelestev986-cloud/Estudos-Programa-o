@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C/Sintaxe básica/1.7 Funções.md",
+                "file": "C/Sintaxe básica/1.9 Arrays de Caracteres.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.7 Funções"
+              "title": "1.9 Arrays de Caracteres"
             }
           }
         ],
@@ -220,11 +220,11 @@
   },
   "active": "dccb3d6be4f80b99",
   "lastOpenFiles": [
-    "ex01.15 1.c",
+    "C/Sintaxe básica/1.8 Argumentos - Passagem por Valor.md",
     "C/Sintaxe básica/1.9 Arrays de Caracteres.md",
     "C/Sintaxe básica/~1.10 Variáveis Externas e Escopo.md",
     "C/Sintaxe básica/1.7 Funções.md",
-    "C/Sintaxe básica/1.8 Argumentos - Passagem por Valor.md",
+    "ex01.15 1.c",
     "C/Sintaxe básica/1.5.3 Contando Linhas.md",
     "C/Sintaxe básica/1.6 Arrays.md",
     "ex01.15.c",
@@ -259,7 +259,6 @@
     "ex01.11.c",
     "ex01.10 1.c",
     "ex01.09 1.c",
-    "ex01.10.c",
     "Cursos/Harvard/CS50X/Desafio 0.canvas",
     "Python/Roadmap.canvas",
     "Python/Curso em Vídeo/Mundo 1 Python/Sem título.canvas",
