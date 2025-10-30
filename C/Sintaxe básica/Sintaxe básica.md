@@ -1,4 +1,4 @@
-Nota feita para linkar os conteúdos do capítulo 1 à 1.5.4 do livro The C Programming Language.
+Nota feita para linkar os conteúdos do capítulo 1 do livro The C Programming Language 2nd Edition.
 
 [[1. Introdução]]
 [[1.1 Começando]]
@@ -10,4 +10,7 @@ Nota feita para linkar os conteúdos do capítulo 1 à 1.5.4 do livro The C Prog
 [[1.5.3 Contando Linhas]]
 [[1.5.4 Contando Palavras]]
 [[1.6 Arrays]]
+[[1.7 Funções]]
 [[1.8 Argumentos - Passagem por Valor]]
+[[1.9 Arrays de Caracteres]]
+[[~1.10 Variáveis Externas e Escopo]]
