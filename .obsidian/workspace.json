@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C/Sintaxe básica/1.9 Arrays de Caracteres.md",
+                "file": "C/Sintaxe básica/~1.10 Variáveis Externas e Escopo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.9 Arrays de Caracteres"
+              "title": "~1.10 Variáveis Externas e Escopo"
             }
           }
         ],
@@ -220,12 +220,12 @@
   },
   "active": "dccb3d6be4f80b99",
   "lastOpenFiles": [
+    "C/Sintaxe básica/~1.9 Arrays de Caracteres.md",
     "C/Sintaxe básica/1.7 Funções.md",
     "C/C.md",
     "C/Sintaxe básica/1.5.3 Contando Linhas.md",
     "C/Sintaxe básica/1.5.4 Contando Palavras.md",
     "C/Sintaxe básica/1.8 Argumentos - Passagem por Valor.md",
-    "C/Sintaxe básica/1.9 Arrays de Caracteres.md",
     "C/Sintaxe básica/1.6 Arrays.md",
     "C/Sintaxe básica/Sintaxe básica.md",
     "ex01.15 2.c",
