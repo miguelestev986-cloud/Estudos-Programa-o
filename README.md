@@ -17,6 +17,7 @@ Caminho: C/C23
 
 Anotações do livro "Modern C Third Edition"
 ### Conteúdos
+(Primeiro dígito é o level, os outros dois o capítulo)
 
 - 0.1.1 Programação Imperativa
 - 0.1.2 Compilando e Rodando
