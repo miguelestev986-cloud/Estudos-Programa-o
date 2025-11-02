@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/miguelestev986-cloud/Estudos-Programa-o/blob/2a2832c1bc013ab923d98c4e0c40fdfd7d080761/patinho-borracha.png" width="200px">
+    <img width="300" height="300" alt="Image" src="https://github.com/user-attachments/assets/ce4d298a-6b14-452b-8624-a29048193dfc" />
 </p>
 
 
