@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "C/C89 C90/1.10 Variáveis Externas e Escopo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "1.10 Variáveis Externas e Escopo"
             }
           }
         ],
@@ -220,6 +220,12 @@
   },
   "active": "dccb3d6be4f80b99",
   "lastOpenFiles": [
+    "C/C89 C90/Sintaxe básica.md",
+    "C/C.md",
+    "C/C89 C90/~1.9 Arrays de Caracteres.md",
+    "C/C89 C90/~1.10 Variáveis Externas e Escopo.md",
+    "C/C89 C90/~1.5.1  Entrada e Saída de Caracteres.md",
+    "README.md",
     "C/C89 C90/1.4 Constantes Simbólicas.md",
     "C/C89 C90/1.5.2 Contando caracteres.md",
     "C/C89 C90/1.3 A instrução For.md",
@@ -230,9 +236,6 @@
     "C/C89 C90/~1.6 Arrays.md",
     "C/C89 C90/1.5.4 Contando Palavras.md",
     "C/C89 C90/1.5.3 Contando Linhas.md",
-    "C/C89 C90/~1.5.1  Entrada e Saída de Caracteres.md",
-    "C/C89 C90/~1.9 Arrays de Caracteres.md",
-    "C/C89 C90/~1.10 Variáveis Externas e Escopo.md",
     "ex01.19.c",
     "ex01.17.c",
     "ex01.15.c",
@@ -244,14 +247,11 @@
     "conversor_temperatura 1.c",
     "conversor_temperatura.c",
     "C/C89 C90/1. Introdução.md",
-    "README.md",
     "patinho-borracha.png",
-    "C/C89 C90/Sintaxe básica.md",
     "Obsidian.md",
     "C/C23/Level 0 Encounter/1.2 Compiling and running.md",
     "C/C23/Level 0 Encounter/1.1 Imperative Programming.md",
     "C/C23/Sem título.md",
-    "C/C.md",
     "Sem título 1.canvas",
     "Sem título.canvas",
     "Metas/Metas.canvas",

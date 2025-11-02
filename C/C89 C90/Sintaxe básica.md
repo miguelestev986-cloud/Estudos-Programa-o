@@ -13,4 +13,4 @@ Nota feita para linkar os conteúdos do capítulo 1 do livro The C Programming L
 [[1.7 Funções]]
 [[1.8 Argumentos - Passagem por Valor]]
 [[~1.9 Arrays de Caracteres]]
-[[~1.10 Variáveis Externas e Escopo]]
+[[1.10 Variáveis Externas e Escopo]]
