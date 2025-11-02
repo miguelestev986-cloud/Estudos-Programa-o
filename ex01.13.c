@@ -1,6 +1,7 @@
 #include <stdio.h>
-/*Queremos um programa que conte a ocorrência de dígitos, espaços em branco e
-outros e que imprima na saída um histograma vertical ou horizontal*/
+/*Escreva um programa para imprimir um histograma dos comprimentos das palavras em sua entrada.
+É fácil desenhar o histograma com as barras na horizontal;
+uma orientação vertical é mais desafiadora.*/
 
 int main(void) {
     int brancos = 0, outros = 0, ca;

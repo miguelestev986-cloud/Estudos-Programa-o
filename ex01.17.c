@@ -1,6 +1,9 @@
 #include <stdio.h>
 #define MAX 1000
 
+/*Escreva um programa que imprima todas as linhas de sua entrada
+que tenham mais de 80 caracteres.*/
+
 int main(){
     int c, i;
     char frase[MAX];

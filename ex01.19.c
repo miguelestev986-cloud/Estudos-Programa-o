@@ -1,6 +1,9 @@
 #include <stdio.h>
 #define MAX 1000
 
+/*Escreva uma função reverse(s) que inverta a sequência de caracteres da string s.
+Use-a para escrever um programa que inverta cada linha de entrada.*/
+
 int tamanho(char f[]);
 void reverse(char f[]);
 

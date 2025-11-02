@@ -1,9 +1,13 @@
 #include <stdio.h>
 
-float converta(float ce){
+/*Reescreva o programa do capítulo 1.2 com uma
+função que faça a conversão de temperatura.*/
+
+void converta(float ce){
     float fa = (ce * (9.0/5.0)) + 32;
 // números decimais são truncados!
     printf("Fahrenheit: %.1f", fa);
+    return 0;
 }
 
 int main(){
