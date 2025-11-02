@@ -1,4 +1,4 @@
-<p style="text-align:center; color:blue;">Do que se trata esse repositório?</p><
+<h1><p style="text-align:center; color:blue;">Do que se trata esse repositório?</p><h1>
 
 Este é um repositório criado para *guardar anotações dos estudos de algumas linguagens de programação*, como C e Python. 
 No momento, estamos lançando anotações de estudos da *linguagem C*, com os livros ❝The C Programming Language 2nd Edition❞ e ❝Modern C❞. 
