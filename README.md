@@ -6,12 +6,10 @@ No momento, estamos lançando anotações de estudos da *linguagem C*, com os li
 
 # Arquivos
 
-  <h3>C versão C23</h3>
+  ## C23 (C Moderno)
   
-	  Anotações do livro "Modern C Third Edition"
-	  Até o momento não iniciamos a leitura.
+Anotações do livro "Modern C Third Edition". Até o momento não iniciamos a leitura.
 
-  <h3>C versão C89/C90</h3>
+  ## C89/C90
 
-	Anotações do livro "The C Programming Language"(mesmo que na sintaxe antiga, é um clássico da linguagem):
-	Os outros conteúdos do livro após o primeiro capítulo não serão anotados. Após a conclusão dele faremos anotações do "Modern C Third Edition".
+Anotações do livro "The C Programming Language"(mesmo que na sintaxe antiga, é um clássico da linguagem). Os outros conteúdos do livro após o primeiro capítulo não serão anotados. Após a conclusão dele faremos anotações do "Modern C Third Edition".
