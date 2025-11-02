@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C/C89 C90/1.7 Funções.md",
+                "file": "C/C89 C90/1.3 A instrução For.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.7 Funções"
+              "title": "1.3 A instrução For"
             }
           }
         ],
@@ -220,6 +220,9 @@
   },
   "active": "dccb3d6be4f80b99",
   "lastOpenFiles": [
+    "C/C89 C90/1.2 Variáveis e Expressões Aritméticas.md",
+    "C/C89 C90/1.1 Começando.md",
+    "C/C89 C90/1.7 Funções.md",
     "C/C89 C90/1.8 Argumentos - Passagem por Valor.md",
     "C/C89 C90/~1.6 Arrays.md",
     "C/C89 C90/1.5.4 Contando Palavras.md",
@@ -230,7 +233,6 @@
     "C/C89 C90/~1.10 Variáveis Externas e Escopo.md",
     "ex01.19.c",
     "ex01.17.c",
-    "C/C89 C90/1.7 Funções.md",
     "ex01.15.c",
     "ex01.13.c",
     "ex01.12.c",
@@ -239,10 +241,8 @@
     "ex01.08.c",
     "C/C89 C90/1.4 Constantes Simbólicas.md",
     "C/C89 C90/1.3 A instrução For.md",
-    "C/C89 C90/1.2 Variáveis e Expressões Aritméticas.md",
     "conversor_temperatura 1.c",
     "conversor_temperatura.c",
-    "C/C89 C90/1.1 Começando.md",
     "C/C89 C90/1. Introdução.md",
     "README.md",
     "patinho-borracha.png",
