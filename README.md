@@ -12,11 +12,15 @@ No momento, estamos lançando anotações de estudos da *linguagem C*, com os li
 
 # Arquivos
 
-  ## C23 (C Moderno)
-  
-Anotações do livro "Modern C Third Edition". Até o momento não iniciamos a leitura.
+ ## C23 (C Moderno)
 
-  ## C89/C90
+Anotações do livro "Modern C Third Edition"
+### Conteúdos
+
+- [Programação Imperativa](#1.1 Imperative Programming)
+- [Compilando e Rodando](#1.2 Compiling and running)
+
+## C89/C90
 
 Anotações do livro "The C Programming Language"(mesmo que na sintaxe antiga, é um clássico da linguagem). Os outros conteúdos do livro após o primeiro capítulo não serão anotados. Após a conclusão dele faremos anotações do "Modern C Third Edition".
 
