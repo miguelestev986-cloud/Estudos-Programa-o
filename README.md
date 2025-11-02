@@ -8,7 +8,7 @@
 
 Este é um repositório criado para *guardar anotações dos estudos de algumas linguagens de programação*, como C e Python, e outros conteúdos relacionados à área de programação.
 No momento, estamos lançando anotações de estudos da *linguagem C*, com os livros ❝The C Programming Language 2nd Edition❞ e ❝Modern C❞. 
-*Ainda que confiáveis, as anotações têm outras fontes além dos livros e também são revisadas pelo ChatGPT. Sinta-se a vontade para usar essas anotações em seus estudos!*
+*Ainda que confiáveis, as anotações têm outras fontes além dos livros e também são revisadas pelo ChatGPT. Sinta-se a vontade para usar essas anotações em seus estudos!* (É recomendado abrir os arquivos pelo Obsidian, e para ter as formatações usar o tema "Obsidianite" nele)
 
 # Arquivos
 
