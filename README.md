@@ -17,7 +17,7 @@ No momento, estamos lançando anotações de estudos da *linguagem C*, com os li
 Anotações do livro "Modern C Third Edition"
 ### Conteúdos
 
-- [Programação Imperativa](#1.1 Imperative Programming)
+- [Programação Imperativa](C/C23/Level 0 Encounter/1.1 Imperative Programming.md)
 - [Compilando e Rodando](#1.2 Compiling and running)
 
 ## C89/C90
