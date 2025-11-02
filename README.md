@@ -1,6 +1,7 @@
 <p align="center">
-    <img src="./.github/patinho-borracha.png" width="200px">
+    <img src="https://github.com/miguelestev986-cloud/Estudos-Programa-o/blob/2a2832c1bc013ab923d98c4e0c40fdfd7d080761/patinho-borracha.png" width="200px">
 </p>
+
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 # Do que se trata esse repositório?
