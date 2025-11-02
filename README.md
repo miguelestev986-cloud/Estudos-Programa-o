@@ -17,8 +17,8 @@ No momento, estamos lançando anotações de estudos da *linguagem C*, com os li
 Anotações do livro "Modern C Third Edition"
 ## Conteúdos
 
-- Programação Imperativa
-- Compilando e Rodando
+- 0.1.1 Programação Imperativa
+- 0.1.2 Compilando e Rodando
 
 ## C89/C90
 
@@ -26,20 +26,20 @@ Anotações do livro "The C Programming Language"(mesmo que na sintaxe antiga, �
 
 ### Conteúdos
 
-[[1. Introdução]]
-[[1.1 Começando]]
-[[1.2 Variáveis e Expressões Aritméticas]]
-[[1.3 A instrução For]]
-[[1.4 Constantes Simbólicas]]
-[[1.5.1  Entrada e Saída de Caracteres]]
-[[1.5.2 Contando caracteres]]
-[[1.5.3 Contando Linhas]]
-[[1.5.4 Contando Palavras]]
-[[1.6 Arrays]]
-[[1.7 Funções]]
-[[1.8 Argumentos - Passagem por Valor]]
-[[~1.9 Arrays de Caracteres]]
-[[~1.10 Variáveis Externas e Escopo]]
+- 1.0 Introdução
+- 1.1 Começando
+- 1.2 Variáveis e Expressões Aritméticas
+- 1.3 A instrução For
+- 1.4 Constantes Simbólicas
+- 1.5.1  Entrada e Saída de Caracteres
+	- 1.5.2 Contando caracteres
+	- 1.5.3 Contando Linhas
+	- 1.5.4 Contando Palavras
+- 1.6 Arrays
+- 1.7 Funções
+- 1.8 Argumentos - Passagem por Valor
+- 1.9 Arrays de Caracteres
+- 1.10 Variáveis Externas e Escopo
 
 
 # Colaboradores
