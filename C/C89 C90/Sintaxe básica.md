@@ -9,7 +9,7 @@ Nota feita para linkar os conteúdos do capítulo 1 do livro The C Programming L
 [[1.5.2 Contando caracteres]]
 [[1.5.3 Contando Linhas]]
 [[1.5.4 Contando Palavras]]
-[[~1.6 Arrays]]
+[[1.6 Arrays]]
 [[1.7 Funções]]
 [[1.8 Argumentos - Passagem por Valor]]
 [[~1.9 Arrays de Caracteres]]
