@@ -73,7 +73,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de arquivos"
+              "title": "Files"
             }
           },
           {
@@ -208,25 +208,26 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir a troca rápida": false,
-      "graph:Abrir visualização em gráfico": false,
-      "canvas:Criar novo canvas": false,
-      "templates:Inserir modelo": false,
-      "daily-notes:Abrir a nota de hoje": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "bases:Criar nova base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
       "obsidian-git:Open Git source control": false
     }
   },
   "active": "dccb3d6be4f80b99",
   "lastOpenFiles": [
+    "C/C89 C90/~1.10 Variáveis Externas e Escopo.md",
+    "C/C89 C90/1. Introdução.md",
+    "C/C89 C90/~1.9 Arrays de Caracteres.md",
     "C/C89 C90/1.6 Arrays.md",
     "ex01.14.c",
     "ex01.13.c",
     "C/C89 C90/1.5.1  Entrada e Saída de Caracteres.md",
     "ex01.06.07.c",
-    "C/C89 C90/~1.9 Arrays de Caracteres.md",
-    "C/C89 C90/~1.10 Variáveis Externas e Escopo.md",
     "C/C89 C90/Sintaxe básica.md",
     "C/C.md",
     "README.md",
@@ -246,7 +247,6 @@
     "ex01.11.c",
     "ex01.09.c",
     "ex01.08.c",
-    "C/C89 C90/1. Introdução.md",
     "patinho-borracha.png",
     "Obsidian.md",
     "C/C23/Level 0 Encounter/1.2 Compiling and running.md",
