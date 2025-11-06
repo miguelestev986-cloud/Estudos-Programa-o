@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C/C89 C90/1.5.4 Contando Palavras.md",
+                "file": "C/C89 C90/~1.9 Arrays de Caracteres.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.5.4 Contando Palavras"
+              "title": "~1.9 Arrays de Caracteres"
             }
           }
         ],
@@ -103,7 +103,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "9ace18920b0143b7",
@@ -190,7 +191,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,15 +208,16 @@
   },
   "active": "dccb3d6be4f80b99",
   "lastOpenFiles": [
+    "C/C89 C90/1.7 Funções.md",
+    "C/C89 C90/1.6 Arrays.md",
+    "C/C89 C90/1.5.4 Contando Palavras.md",
     "C/C89 C90/1.5.3 Contando Linhas.md",
     "ex01.10.c",
     "C/C89 C90/1.5.2 Contando caracteres.md",
-    "C/C89 C90/1.6 Arrays.md",
     "ex01.14.c",
     "C/C89 C90/1.5.1  Entrada e Saída de Caracteres.md",
     "C/C89 C90/1.4 Constantes Simbólicas.md",
     "C/C89 C90/~1.9 Arrays de Caracteres.md",
-    "C/C89 C90/1.5.4 Contando Palavras.md",
     "ex01.18.c",
     "C/C89 C90/~1.10 Variáveis Externas e Escopo.md",
     "C/C89 C90/1. Introdução.md",
@@ -226,7 +229,6 @@
     "C/C89 C90/1.3 A instrução For.md",
     "C/C89 C90/1.2 Variáveis e Expressões Aritméticas.md",
     "C/C89 C90/1.1 Começando.md",
-    "C/C89 C90/1.7 Funções.md",
     "C/C89 C90/1.8 Argumentos - Passagem por Valor.md",
     "ex01.19.c",
     "ex01.17.c",
