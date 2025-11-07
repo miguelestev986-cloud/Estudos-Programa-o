@@ -18,21 +18,21 @@
               },
               "pinned": true,
               "icon": "lucide-book-up",
-              "title": "Notas de Lançamento 1.9.14"
+              "title": "Release Notes 1.9.14"
             }
           },
           {
-            "id": "dccb3d6be4f80b99",
+            "id": "987a9021f81330c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Curso em Vídeo/Mundo 2 Python/Untitled.md",
+                "file": "Python/História.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "História"
             }
           }
         ],
@@ -103,7 +103,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "9ace18920b0143b7",
@@ -205,24 +206,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dccb3d6be4f80b99",
+  "active": "987a9021f81330c6",
   "lastOpenFiles": [
-    "Python/Curso em Vídeo/Mundo 2 Python/Mundo 2 Python.md",
+    "Curso em Vídeo/Curso em Vídeo.md",
+    "Python/História.md",
     "Python/Curso em Vídeo/Mundo 2 Python/Untitled.md",
-    "Python/Curso em Vídeo/Curso em Vídeo.md",
-    "Python/Curso em Vídeo/Python.md",
-    "Python/Curso em Vídeo/Mundo 1 Python/11.1 – Cores no Terminal.md",
+    "Python/DIO/Untitled",
+    "Python/DIO",
+    "Python/Curso em Vídeo/Mundo 2 Python/Mundo 2 Python.md",
+    "Curso em Vídeo/Python.md",
+    "Curso em Vídeo/Mundo 1 Python/11.1 – Cores no Terminal.md",
     "Python/Curso em Vídeo/Mundo 2 Python",
-    "Python/Curso em Vídeo/Mundo 1 Python/10.1 – Condições (Parte 1).md",
-    "Python/Curso em Vídeo/Mundo 1 Python/9.1 – Manipulando Texto.md",
-    "Python/Curso em Vídeo/Mundo 1 Python/8.1 - Utilizando Módulos.md",
-    "Python/Curso em Vídeo/Mundo 1 Python/7.1 – Operadores Aritméticos.md",
-    "Python/Curso em Vídeo/Mundo 1 Python/6.1 – Tipos Primitivos e Saída de Dados.md",
-    "Python/Curso em Vídeo/Mundo 1 Python/5.1 – Instalando o PyCharm e o QPython3.md",
-    "Python/Curso em Vídeo/Mundo 1 Python/4.1 – Primeiros Comandos em Python3.md",
-    "Python/Curso em Vídeo/Mundo 1 Python/3.1 – Instalando o Python3 e o IDLE.md",
-    "Python/Curso em Vídeo/Mundo 1 Python/2.1 Para que serve o Python.md",
-    "Python/Curso em Vídeo/Mundo 1 Python/1.1 - Seja um Programador.md",
+    "Curso em Vídeo/Mundo 1 Python/10.1 – Condições (Parte 1).md",
+    "Curso em Vídeo/Mundo 1 Python/9.1 – Manipulando Texto.md",
+    "Curso em Vídeo/Mundo 1 Python/8.1 - Utilizando Módulos.md",
+    "Curso em Vídeo/Mundo 1 Python/7.1 – Operadores Aritméticos.md",
+    "Curso em Vídeo/Mundo 1 Python/6.1 – Tipos Primitivos e Saída de Dados.md",
+    "Curso em Vídeo/Mundo 1 Python/5.1 – Instalando o PyCharm e o QPython3.md",
+    "Curso em Vídeo/Mundo 1 Python/4.1 – Primeiros Comandos em Python3.md",
+    "Curso em Vídeo/Mundo 1 Python/3.1 – Instalando o Python3 e o IDLE.md",
+    "Curso em Vídeo/Mundo 1 Python/2.1 Para que serve o Python.md",
+    "Curso em Vídeo/Mundo 1 Python/1.1 - Seja um Programador.md",
     "Python/Curso em Vídeo/Mundo 1 Python/Aula 1.1 - Seja um Programador.md",
     "C/C89 C90/~1.9 Arrays de Caracteres.md",
     "C/C89 C90/1.7 Funções.md",
@@ -236,13 +240,10 @@
     "C/C89 C90/1.4 Constantes Simbólicas.md",
     "ex01.18.c",
     "C/C89 C90/~1.10 Variáveis Externas e Escopo.md",
-    "C/C89 C90/1. Introdução.md",
     "ex01.13.c",
     "ex01.06.07.c",
     "ex01.19.c",
     "ex01.17.c",
-    "ex01.15.c",
-    "ex01.12.c",
     "patinho-borracha.png",
     "Sem título 1.canvas",
     "Sem título.canvas",
