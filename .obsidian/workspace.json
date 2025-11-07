@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/História.md",
+                "file": "Python/Introdução.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "História"
+              "title": "Introdução"
             }
           }
         ],
@@ -103,8 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "9ace18920b0143b7",
@@ -208,8 +207,11 @@
   },
   "active": "987a9021f81330c6",
   "lastOpenFiles": [
+    "Curso em Vídeo/Mundo 1 Python/2.1 Para que serve o Python.md",
+    "Python/Introdução.md",
+    "C/C89 C90/~1.10 Variáveis Externas e Escopo.md",
+    "C/C89 C90/~1.9 Arrays de Caracteres.md",
     "Curso em Vídeo/Curso em Vídeo.md",
-    "Python/História.md",
     "Python/Curso em Vídeo/Mundo 2 Python/Untitled.md",
     "Python/DIO/Untitled",
     "Python/DIO",
@@ -225,10 +227,8 @@
     "Curso em Vídeo/Mundo 1 Python/5.1 – Instalando o PyCharm e o QPython3.md",
     "Curso em Vídeo/Mundo 1 Python/4.1 – Primeiros Comandos em Python3.md",
     "Curso em Vídeo/Mundo 1 Python/3.1 – Instalando o Python3 e o IDLE.md",
-    "Curso em Vídeo/Mundo 1 Python/2.1 Para que serve o Python.md",
     "Curso em Vídeo/Mundo 1 Python/1.1 - Seja um Programador.md",
     "Python/Curso em Vídeo/Mundo 1 Python/Aula 1.1 - Seja um Programador.md",
-    "C/C89 C90/~1.9 Arrays de Caracteres.md",
     "C/C89 C90/1.7 Funções.md",
     "C/C89 C90/1.6 Arrays.md",
     "C/C89 C90/1.5.4 Contando Palavras.md",
@@ -239,7 +239,6 @@
     "C/C89 C90/1.5.1  Entrada e Saída de Caracteres.md",
     "C/C89 C90/1.4 Constantes Simbólicas.md",
     "ex01.18.c",
-    "C/C89 C90/~1.10 Variáveis Externas e Escopo.md",
     "ex01.13.c",
     "ex01.06.07.c",
     "ex01.19.c",
