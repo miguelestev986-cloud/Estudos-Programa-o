@@ -1,12 +1,15 @@
-Fontes:
+### Conteúdo
+História, objetivos, aplicações, instalação e configuração do VS Code para Python
+
+### Fontes
 Bootcamp DIO [Suzano - Python Developer](https://www.dio.me/bootcamp/suzano-python-developer)
 Curso em Vídeo Python - Mundo 1 ( Aula 1.1 )
 
-# ***História
+# **História
 
 A história do Python começa no final do ano 1989, quando o programador holandês Guido van Rossum iniciou o projeto como um hobby para manter-se ocupado. Inspirado pelo grupo de comédia britânico Monty Python's Flying Circus , ele lançou a primeira versão em 1991 no Centrum Wiskunde & Informática (CWI). Python tem tipagem dinâmica e forte, é mutiplataforma e multiparadigma e tem uma comunidade gigante e muito ativa.
 
-# ***Objetivos
+# **Objetivos
 
 Python foi influenciada pela linguagem ABC, que era uma linguagem pensada para iniciantes. Os objetivos de Van Rossum para a linguagem eram:
 
@@ -16,12 +19,12 @@ Python foi influenciada pela linguagem ABC, que era uma linguagem pensada para i
 4. Adequada para tarefas diárias;
 5. Produtiva.
 
-# ***Aplicações
+# **Aplicações
 
 Python é uma linguagem muito versátil. Ele pode ser usado para automações, desenvolvimento web, desenvolvimento de jogos, desenvolvimento de software, análise e ciência de dados e IA.
 Algumas empresas que utilizam o Python são: Google, Facebook/Instagram, Netflix, Spotify, Dropbox, Reddit, Uber e Amazon.
 
-# ***instalando o Python e Configurando uma IDE
+# **instalando o Python e Configurando uma IDE
 
 No Linux ou MacOS, o Python costuma vir baixado por padrão. Para verificar, digite no terminal:
 

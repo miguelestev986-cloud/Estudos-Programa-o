@@ -1,3 +1,8 @@
+### Conteúdo
+Função print()
+
+### Fontes
+Bootcamp DIO [Suzano - Python Developer](https://www.dio.me/bootcamp/suzano-python-developer)
 # **Oque é programar?***
 
 Programar é instruir o computador a realizar uma sequência de passos para alcançar um objetivo. Por exemplo em uma receita de bolo, nós temos instruções que devem ser seguidas para realizá-lo: 
