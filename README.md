@@ -12,61 +12,15 @@ No momento, estamos lançando anotações de estudos da *linguagem C*, com os li
 
 # Arquivos
 
-## C23 (C Moderno)
-Caminho: C/C23
+## C
 
-Anotações do livro "Modern C Third Edition"
-### Conteúdos
-(Primeiro dígito é o level, os outros dois o capítulo)
+C23  - Anotações do livro "Modern C Third Edition"
 
-- 0.1.1 Programação Imperativa
-- 0.1.2 Compilando e Rodando
+C89/C90 -  Anotações do livro "The C Programming Language"(mesmo que na sintaxe antiga, é um clássico da linguagem). Os outros conteúdos do livro após o primeiro capítulo não serão anotados.
 
-## C89/C90
-Caminho: C/C89 C90
+## Python
 
-Anotações do livro "The C Programming Language"(mesmo que na sintaxe antiga, é um clássico da linguagem). Os outros conteúdos do livro após o primeiro capítulo não serão anotados. Após a conclusão dele faremos anotações do "Modern C Third Edition".
-
-### Conteúdos
-
-- 1.0 Introdução
-- 1.1 Começando
-	- ex01.1 
-	- ex01.2
-- 1.2 Variáveis e Expressões Aritméticas
-	- ex01.3
-	- ex01.4
-- 1.3 A instrução For
-	- ex01.5
-- 1.4 Constantes Simbólicas
-- 1.5.1  Entrada e Saída de Caracteres
-	- ex01.6 
-	- ex01.7
-- 1.5.2 Contando caracteres
-- 1.5.3 Contando Linhas
-	- ex01.08
-	- ex01.09
-	- ex01.10
-- 1.5.4 Contando Palavras
-	- ex01.11
-	- ex01.12
-- 1.6 Arrays
-	 - ex01.13
-	 - ex01.14
-- 1.7 Funções
-	- ex01.15
-- 1.8 Argumentos - Passagem por Valor
-- 1.9 Arrays de Caracteres
-	- ex01.16
-	- ex01.17
-	- ex01.18
-	- ex01.19
-- 1.10 Variáveis Externas e Escopo
-	- ex01.20
-	- ex01.21
-	- ex01.22
-	- ex01.23
-	- ex01.24
+Anotações de estudos da linguagem Python (Principalmente do Bootcamp DIO [Suzano - Python Developer](https://www.dio.me/bootcamp/suzano-python-developer), mas serão organizadas por tópicos e não aulas). 
 
 
 # Colaboradores
