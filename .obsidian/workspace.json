@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Primeiro Programa.md",
+                "file": "Python/Modo interativo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Primeiro Programa"
+              "title": "Modo interativo"
             }
           }
         ],
@@ -59,7 +59,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de arquivos"
             }
           },
           {
@@ -103,7 +103,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "9ace18920b0143b7",
@@ -190,25 +191,29 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false,
       "obsidian-git:Open Git source control": false
     }
   },
   "active": "32a9966192cbc7b0",
   "lastOpenFiles": [
+    "Python/Tipos de Dados.md",
+    "Python/Modo interativo.md",
+    "Python/Primeiro Programa.md",
+    "Python/Sem título",
     "Python/Introdução.md",
     "README.md",
-    "Python/Primeiro Programa.md",
     "patinho-borracha.png",
     "Curso em Vídeo/Mundo 1 Python/1.1 - Seja um Programador.md",
     "Curso em Vídeo/Mundo 1 Python/2.1 Para que serve o Python.md",
@@ -234,15 +239,12 @@
     "Curso em Vídeo/Mundo 1 Python/3.1 – Instalando o Python3 e o IDLE.md",
     "Python/Curso em Vídeo/Mundo 1 Python/Aula 1.1 - Seja um Programador.md",
     "C/C89 C90/1.7 Funções.md",
-    "C/C89 C90/1.6 Arrays.md",
-    "C/C89 C90/1.5.4 Contando Palavras.md",
     "ex01.10.c",
     "ex01.14.c",
     "ex01.18.c",
     "ex01.13.c",
     "ex01.06.07.c",
     "ex01.19.c",
-    "ex01.17.c",
     "Sem título 1.canvas",
     "Sem título.canvas",
     "Metas/Metas.canvas",
