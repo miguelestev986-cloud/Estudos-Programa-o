@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Modo interativo.md",
+                "file": "Python/Tipos de Dados.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Modo interativo"
+              "title": "Tipos de Dados"
             }
           }
         ],
@@ -208,7 +208,18 @@
   },
   "active": "32a9966192cbc7b0",
   "lastOpenFiles": [
+    "Python/Variáveis e Constantes.md",
+    "Curso em Vídeo/Mundo 1 Python/4.1 – Primeiros Comandos em Python3.md",
+    "Obsidian.md",
     "Python/Tipos de Dados.md",
+    "Curso em Vídeo/Mundo 1 Python/5.1 – Instalando o PyCharm e o QPython3.md",
+    "Curso em Vídeo/Mundo 1 Python/6.1 – Tipos Primitivos e Saída de Dados.md",
+    "Curso em Vídeo/Mundo 1 Python/11.1 – Cores no Terminal.md",
+    "Curso em Vídeo/Mundo 1 Python/10.1 – Condições (Parte 1).md",
+    "Curso em Vídeo/Mundo 1 Python/9.1 – Manipulando Texto.md",
+    "Curso em Vídeo/Mundo 1 Python/8.1 - Utilizando Módulos.md",
+    "Curso em Vídeo/Mundo 1 Python/7.1 – Operadores Aritméticos.md",
+    "Curso em Vídeo/Mundo 1 Python/3.1 – Instalando o Python3 e o IDLE.md",
     "Python/Modo interativo.md",
     "Python/Primeiro Programa.md",
     "Python/Sem título",
@@ -227,18 +238,7 @@
     "Python/DIO",
     "Python/Curso em Vídeo/Mundo 2 Python/Mundo 2 Python.md",
     "Curso em Vídeo/Python.md",
-    "Curso em Vídeo/Mundo 1 Python/11.1 – Cores no Terminal.md",
     "Python/Curso em Vídeo/Mundo 2 Python",
-    "Curso em Vídeo/Mundo 1 Python/10.1 – Condições (Parte 1).md",
-    "Curso em Vídeo/Mundo 1 Python/9.1 – Manipulando Texto.md",
-    "Curso em Vídeo/Mundo 1 Python/8.1 - Utilizando Módulos.md",
-    "Curso em Vídeo/Mundo 1 Python/7.1 – Operadores Aritméticos.md",
-    "Curso em Vídeo/Mundo 1 Python/6.1 – Tipos Primitivos e Saída de Dados.md",
-    "Curso em Vídeo/Mundo 1 Python/5.1 – Instalando o PyCharm e o QPython3.md",
-    "Curso em Vídeo/Mundo 1 Python/4.1 – Primeiros Comandos em Python3.md",
-    "Curso em Vídeo/Mundo 1 Python/3.1 – Instalando o Python3 e o IDLE.md",
-    "Python/Curso em Vídeo/Mundo 1 Python/Aula 1.1 - Seja um Programador.md",
-    "C/C89 C90/1.7 Funções.md",
     "ex01.10.c",
     "ex01.14.c",
     "ex01.18.c",
