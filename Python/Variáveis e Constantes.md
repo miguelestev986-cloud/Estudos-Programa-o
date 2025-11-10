@@ -10,7 +10,7 @@ idade = 20
 #idade recebe 20
 print(nome, idade)
 ```
-Na saída (Terminal): Calabreso da Silva 20
+Na saída (Tela): Calabreso da Silva 20
 
 Podemos definir mais de uma variável em uma única linha:
 
