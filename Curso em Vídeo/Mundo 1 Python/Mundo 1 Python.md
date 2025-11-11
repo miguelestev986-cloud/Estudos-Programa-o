@@ -14,7 +14,7 @@ Nota feita para organizar aulas feitas dentro do curso Python Mundo 1 do Curso e
 [[3.1 – Instalando o Python3 e o IDLE]]
 [[4.1 – Primeiros Comandos em Python3]]
 [[5.1 – Instalando o PyCharm e o QPython3]]
-[[6.1 – Tipos Primitivos e Saída de Dados]]
+[[Tipos Primitivos]]
 [[7.1 – Operadores Aritméticos]]
 [[8.1 - Utilizando Módulos]]
 [[9.1 – Manipulando Texto]]

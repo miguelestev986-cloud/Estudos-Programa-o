@@ -4,7 +4,7 @@
 
 ```python 
 
-nome = "Calabreso da Silva"
+nome = 'Calabreso da Silva'
 #nome recebe Calabreso da Silva
 idade = 20
 #idade recebe 20
@@ -16,8 +16,8 @@ Podemos definir mais de uma variável em uma única linha:
 
 ```python
 
-nome, idade = "Calabreso da Silva", 20
-print(f"Nome = {nome} Idade = {idade})
+nome, idade = 'Calabreso da Silva', 20
+print(f'Nome = {nome} Idade = {idade}')
 ```
 
 A diferença de variável para  *constantes* é que uma constante permanece com o valor definido inicialmente até o fim do programa (ou seja, o valor é imutável). Um detalhe é que o Python não tem uma palavra reservada para informar ao interpretador que o valor é constantes, então por convenção as escrevemos em letras maiúsculas.

@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Entrada e Saída de Dados.md",
+                "file": "Python/Tipos Primitivos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Entrada e Saída de Dados"
+              "title": "Tipos Primitivos"
             }
           }
         ],
@@ -103,7 +103,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "9ace18920b0143b7",
@@ -207,22 +208,23 @@
   },
   "active": "32a9966192cbc7b0",
   "lastOpenFiles": [
-    "Python/Introdução.md",
-    "Python/Variáveis e Constantes.md",
-    "Python/Tipos de Dados.md",
     "Python/Primeiro Programa.md",
-    "Python/Modo interativo.md",
-    "Python/Entrada e Saída de Dados.md",
-    "Curso em Vídeo/Mundo 1 Python/4.1 – Primeiros Comandos em Python3.md",
-    "Obsidian.md",
-    "Curso em Vídeo/Mundo 1 Python/5.1 – Instalando o PyCharm e o QPython3.md",
-    "Curso em Vídeo/Mundo 1 Python/6.1 – Tipos Primitivos e Saída de Dados.md",
+    "Curso em Vídeo/Mundo 1 Python/Mundo 1 Python.md",
     "Curso em Vídeo/Mundo 1 Python/11.1 – Cores no Terminal.md",
     "Curso em Vídeo/Mundo 1 Python/10.1 – Condições (Parte 1).md",
     "Curso em Vídeo/Mundo 1 Python/9.1 – Manipulando Texto.md",
     "Curso em Vídeo/Mundo 1 Python/8.1 - Utilizando Módulos.md",
     "Curso em Vídeo/Mundo 1 Python/7.1 – Operadores Aritméticos.md",
+    "Python/Tipos Primitivos.md",
+    "Python/Entrada e Saída de Dados.md",
+    "Python/Tipos de Dados.md",
+    "Curso em Vídeo/Mundo 1 Python/5.1 – Instalando o PyCharm e o QPython3.md",
+    "Curso em Vídeo/Mundo 1 Python/4.1 – Primeiros Comandos em Python3.md",
+    "Python/Introdução.md",
+    "Python/Variáveis e Constantes.md",
     "Curso em Vídeo/Mundo 1 Python/3.1 – Instalando o Python3 e o IDLE.md",
+    "Python/Modo interativo.md",
+    "Obsidian.md",
     "Python/Sem título",
     "README.md",
     "patinho-borracha.png",
@@ -236,7 +238,6 @@
     "Python/Curso em Vídeo/Mundo 2 Python/Untitled.md",
     "Python/DIO/Untitled",
     "Python/DIO",
-    "Python/Curso em Vídeo/Mundo 2 Python/Mundo 2 Python.md",
     "Python/Curso em Vídeo/Mundo 2 Python",
     "ex01.10.c",
     "ex01.14.c",

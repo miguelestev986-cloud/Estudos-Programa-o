@@ -10,7 +10,7 @@ print(f'A soma vale {n1 + n2})
 ```
 
 Observação:
-O código não nos dá o resultando esperado, oque será explicado na [[6.1 – Tipos Primitivos e Saída de Dados]].
+O código não nos dá o resultando esperado, oque será explicado na [[Tipos Primitivos]].
 Que terá como resolução:
 
 ```python
