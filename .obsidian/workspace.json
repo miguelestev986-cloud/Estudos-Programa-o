@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "README"
             }
+          },
+          {
+            "id": "7247eff08d7cb1eb",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Notas de Lançamento 1.10.3"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -205,7 +217,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "50b697b67f4b71b4",
+  "active": "7247eff08d7cb1eb",
   "lastOpenFiles": [
     "patinho-borracha.png",
     "Obsidian.md",
