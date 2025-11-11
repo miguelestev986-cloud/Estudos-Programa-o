@@ -9,8 +9,8 @@ Os tipos servem para definir as características e comportamentos de um valor pa
 
 No Python, temos 4 tipos básicos de dados: int, float, bool, str
 
-O tipo int indica valor inteiros (Ex.: 0, 1, -932884, 120...)
-O tipo float indica valor real (Ex.: 0, 1.4, -19283.2234...)
+O tipo int indica valores inteiros (Ex.: 0, 1, -932884, 120...)
+O tipo float indica valores reais (Ex.: 0, 1.4, -19283.2234...)
 O tipo bool indica um valor lógico (True ou False)
 O tipo str indica valor de caractere (Ex.: "Eu amo pudim!")
 
@@ -42,7 +42,7 @@ print(n)
 ```
 Se digitarmos qualquer coisa, no terminal será mostrado "True", pois a variável tem um valor guardado. Se não digitarmos, será mostrado False, pois a variável não tem nenhum valor.
 
-4. str() converte oque está dentro dos parênteses com um valor de caractere (ou string). Detalhe que, sem outra formatação, o valor da variável já é uma string.
+4. str() converte oque está dentro dos parênteses com um valor de caractere. Detalhe que, sem outra formatação, o valor da variável já é uma string.
 
 ```python
 algo = str(input('Digite algo: '))

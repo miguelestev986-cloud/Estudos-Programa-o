@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Tipos Primitivos.md",
+                "file": "Git e Github/GitHub.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tipos Primitivos"
+              "title": "GitHub"
             }
           }
         ],
@@ -103,8 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "9ace18920b0143b7",
@@ -208,6 +207,11 @@
   },
   "active": "32a9966192cbc7b0",
   "lastOpenFiles": [
+    "Git e Github/Git.md",
+    "Git e Github/GitHub.md",
+    "Git e Github/Sistemas de Controle de Versão (VCS).md",
+    "Git e Github",
+    "Python/Tipos Primitivos.md",
     "Python/Primeiro Programa.md",
     "Curso em Vídeo/Mundo 1 Python/Mundo 1 Python.md",
     "Curso em Vídeo/Mundo 1 Python/11.1 – Cores no Terminal.md",
@@ -215,7 +219,6 @@
     "Curso em Vídeo/Mundo 1 Python/9.1 – Manipulando Texto.md",
     "Curso em Vídeo/Mundo 1 Python/8.1 - Utilizando Módulos.md",
     "Curso em Vídeo/Mundo 1 Python/7.1 – Operadores Aritméticos.md",
-    "Python/Tipos Primitivos.md",
     "Python/Entrada e Saída de Dados.md",
     "Python/Tipos de Dados.md",
     "Curso em Vídeo/Mundo 1 Python/5.1 – Instalando o PyCharm e o QPython3.md",
@@ -233,9 +236,6 @@
     "C/C23/Level 0 Encounter/1.2 Compiling and running.md",
     "C/C23/Level 0 Encounter/1.1 Imperative Programming.md",
     "C/C89 C90/~1.10 Variáveis Externas e Escopo.md",
-    "C/C89 C90/~1.9 Arrays de Caracteres.md",
-    "Curso em Vídeo/Curso em Vídeo.md",
-    "Python/Curso em Vídeo/Mundo 2 Python/Untitled.md",
     "Python/DIO/Untitled",
     "Python/DIO",
     "Python/Curso em Vídeo/Mundo 2 Python",
@@ -244,7 +244,6 @@
     "ex01.18.c",
     "ex01.13.c",
     "ex01.06.07.c",
-    "ex01.19.c",
     "Sem título 1.canvas",
     "Sem título.canvas",
     "Metas/Metas.canvas",
