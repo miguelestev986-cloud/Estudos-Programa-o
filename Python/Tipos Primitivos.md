@@ -1,5 +1,5 @@
-##### Conteúdo 
-Tipos primitivos int, float, bool e str.
+### Fontes
+Curso em Vídeo Python - Mundo 1
 
 # **Por Que Usamos?
 

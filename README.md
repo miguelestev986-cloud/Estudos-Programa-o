@@ -22,12 +22,6 @@ C89/C90 -  Anotações do livro "The C Programming Language"(mesmo que na sintax
 
 Anotações de estudos da linguagem Python (Principalmente do Bootcamp DIO [Suzano - Python Developer](https://www.dio.me/bootcamp/suzano-python-developer), mas serão organizadas por tópicos e não aulas). 
 
-
-# Colaboradores
-
-
-![Contribuidores](https://contrib.rocks/image?repo=miguelestev986-cloud/Estudos-Programa-o)
-
 ### Posso contribuir?
 
-Sim, se você já tem suas próprias anotações e gostaria de compartilhá-las com nosso repositório ficaríamos muito feliz em tê-las, contate esse email: miguelestev986@gmail.com. Fique tranquilo(a), você seria mencionado na seção de contribuidores e suas anotações mencionarão seu user do Github!
+Sim, se você já tem suas próprias anotações e gostaria de compartilhá-las com nosso repositório ficaríamos muito feliz em tê-las, contate esse email: miguelestev986@gmail.com. Fique tranquilo(a), suas anotações mencionarão seu user do Github!

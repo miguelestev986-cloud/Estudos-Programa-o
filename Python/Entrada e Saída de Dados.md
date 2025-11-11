@@ -1,5 +1,6 @@
-
-# **Lendo Valores
+### Fontes
+Bootcamp DIO [Suzano - Python Developer](https://www.dio.me/bootcamp/suzano-python-developer)
+Curso em Vídeo Python - Mundo 1
 
 A função *input* é utilizada quando queremos ler dados da entrada padrão (teclado). Ela recebe um argumento do tipo string, que é exibido para o usuário na saída padrão (tela). A função lê a entrada (ela abre permite que o usuário escreva), a converte para string e retorna o valor ao chamador. Exemplos:
 

@@ -1,9 +1,6 @@
-### Conteúdo
-História, objetivos, aplicações, instalação e configuração do VS Code para Python
-
 ### Fontes
 Bootcamp DIO [Suzano - Python Developer](https://www.dio.me/bootcamp/suzano-python-developer)
-Curso em Vídeo Python - Mundo 1 ( Aula 1.1 )
+Curso em Vídeo Python - Mundo 1
 
 # **História
 

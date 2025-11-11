@@ -1,3 +1,7 @@
+### Fontes
+Bootcamp DIO [Suzano - Python Developer](https://www.dio.me/bootcamp/suzano-python-developer)
+Curso em Vídeo Python - Mundo 1
+
 # **Oque são
 
 *Variáveis* armazenam valores que "nascem" com um valor mas que podem sofrer alterações durante a execução do programa. Como o Python define o tipo de uma variável automaticamente pelo valor que ela recebe, logo não podemos declarar uma variável que não receba nenhum valor. Para alterar o valor de uma variável, basta atribui-lá um novo valor.
