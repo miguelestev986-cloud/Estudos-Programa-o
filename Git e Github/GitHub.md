@@ -5,3 +5,4 @@ Apesar de terem os nomes parecidos (Git e GitHub), o GitHub é uma plataforma de
 
 # **História
 
+# **Como instalar
