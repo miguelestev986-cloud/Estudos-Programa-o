@@ -39,12 +39,14 @@
             "id": "7247eff08d7cb1eb",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.10.3"
+                "file": "Python/Tipos Primitivos.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Notas de Lançamento 1.10.3"
+              "icon": "lucide-file",
+              "title": "Tipos Primitivos"
             }
           }
         ],
@@ -202,8 +204,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,6 +220,7 @@
   },
   "active": "7247eff08d7cb1eb",
   "lastOpenFiles": [
+    "Python/Operadores",
     "patinho-borracha.png",
     "Obsidian.md",
     "Python/Entrada e Saída de Dados.md",
