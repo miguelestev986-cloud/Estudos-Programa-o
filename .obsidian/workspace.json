@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Tipos Primitivos.md",
+                "file": "Python/Variáveis e Constantes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tipos Primitivos"
+              "title": "Variáveis e Constantes"
             }
           }
         ],
@@ -117,7 +117,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "9ace18920b0143b7",
@@ -220,13 +221,13 @@
   },
   "active": "7247eff08d7cb1eb",
   "lastOpenFiles": [
+    "Python/Tipos Primitivos.md",
+    "Python/Primeiro Programa.md",
+    "Python/Introdução.md",
+    "Python/Entrada e Saída de Dados.md",
     "Python/Operadores",
     "patinho-borracha.png",
     "Obsidian.md",
-    "Python/Entrada e Saída de Dados.md",
-    "Python/Introdução.md",
-    "Python/Primeiro Programa.md",
-    "Python/Tipos Primitivos.md",
     "Python/Variáveis e Constantes.md",
     "Git e Github/Git.md",
     "C/Como enviar alterações.md",
@@ -256,7 +257,6 @@
     "ex01.14.c",
     "ex01.18.c",
     "ex01.13.c",
-    "ex01.06.07.c",
     "Sem título 1.canvas",
     "Sem título.canvas",
     "Metas/Metas.canvas",
