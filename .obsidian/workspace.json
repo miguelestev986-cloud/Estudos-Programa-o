@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Variáveis e Constantes.md",
+                "file": "Python/Operadores.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Variáveis e Constantes"
+              "title": "Operadores"
             }
           }
         ],
@@ -205,7 +205,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,6 +222,8 @@
   },
   "active": "7247eff08d7cb1eb",
   "lastOpenFiles": [
+    "Python/Variáveis e Constantes.md",
+    "Python/Operadores.md",
     "Python/Tipos Primitivos.md",
     "Python/Primeiro Programa.md",
     "Python/Introdução.md",
@@ -228,7 +231,6 @@
     "Python/Operadores",
     "patinho-borracha.png",
     "Obsidian.md",
-    "Python/Variáveis e Constantes.md",
     "Git e Github/Git.md",
     "C/Como enviar alterações.md",
     "Curso em Vídeo/Mundo 1 Python/7.1 – Operadores Aritméticos.md",
