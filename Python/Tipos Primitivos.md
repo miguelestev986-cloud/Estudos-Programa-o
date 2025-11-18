@@ -11,7 +11,7 @@ No Python, temos 4 tipos básicos de dados: int, float, bool, str
 
 O tipo int indica valores inteiros (Ex.: 0, 1, -932884, 120...)
 O tipo float indica valores reais (Ex.: 0, 1.4, -19283.2234...)
-O tipo bool indica um valor lógico (True ou False)
+O tipo bool indica um valor lógico (para 0, strings ou arrays vazias, False e True para qualquer valor diferente de False)
 O tipo str indica valor de caractere (Ex.: "Eu amo pudim!")
 
 # **Conversão de tipos
@@ -34,7 +34,7 @@ print(f'A soma vale {n1+n2})
 ```
 Se nós digitarmos 6 e 8, teríamos como resultado 14.0
 
-3. bool() converte oque está dentro dos parênteses com um valor lógico(ou boleano). Ele nos retorna se o valor é True (verdadeiro) ou False (falso).
+3. bool() converte oque está dentro dos parênteses em um valor lógico(ou boleano). Ele nos retorna se o valor é True (verdadeiro) ou False (falso).
 
 ```python
 n = bool(input('Digite um número: '))

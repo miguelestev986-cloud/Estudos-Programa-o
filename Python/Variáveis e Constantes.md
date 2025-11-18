@@ -4,7 +4,7 @@ Curso em Vídeo Python - Mundo 1
 
 # **Oque são
 
-*Variáveis* armazenam valores que "nascem" com um valor mas que podem sofrer alterações durante a execução do programa. Como o Python define o tipo de uma variável automaticamente pelo valor que ela recebe, logo não podemos declarar uma variável que não receba nenhum valor. Para alterar o valor de uma variável, basta atribui-lá um novo valor.
+*Variáveis* armazenam valores que "nascem" com um valor mas que podem sofrer alterações durante a execução do programa. Como o Python usa uma tipagem dinâmica (Define o tipo da variável pelo seu valor), logo não podemos declarar uma variável que não receba nenhum valor. Para alterar o valor de uma variável, basta atribui-lá um novo valor.
 
 ```python 
 
@@ -24,7 +24,7 @@ nome, idade = 'Calabreso da Silva', 20
 print(f'Nome = {nome} Idade = {idade}')
 ```
 
-A diferença de variável para  *constantes* é que uma constante permanece com o valor definido inicialmente até o fim do programa (ou seja, o valor é imutável). Um detalhe é que o Python não tem uma palavra reservada para informar ao interpretador que o valor é constantes, então por convenção as escrevemos em letras maiúsculas.
+A diferença de variável para *constantes* é que uma constante permanece com o valor definido inicialmente até o fim do programa (ou seja, o valor é imutável). Um detalhe é que o Python não tem uma palavra reservada para informar ao interpretador que o valor é constantes, então por convenção as escrevemos em letras maiúsculas. Como constantes são como variáveis (apenas é entendido que o valor não mudará na execução do programa), os valores acabam podendo sim ser alterados na execução, diferente de outras linguagens.
 
 # **Boas Práticas
 

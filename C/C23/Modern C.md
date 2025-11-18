@@ -1,1 +1,0 @@
-Nota feita para linkar as notas do livro Modern C.

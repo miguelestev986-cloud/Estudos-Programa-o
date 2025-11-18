@@ -18,39 +18,21 @@
               },
               "pinned": true,
               "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.14"
+              "title": "Notas de Lançamento 1.9.14"
             }
           },
           {
-            "id": "32a9966192cbc7b0",
+            "id": "424b3d0d336efcd4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "7247eff08d7cb1eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/Operadores.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Operadores"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,8 +99,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "9ace18920b0143b7",
@@ -220,45 +201,45 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7247eff08d7cb1eb",
+  "active": "424b3d0d336efcd4",
   "lastOpenFiles": [
-    "Python/Variáveis e Constantes.md",
-    "Python/Operadores.md",
-    "Python/Tipos Primitivos.md",
-    "Python/Primeiro Programa.md",
-    "Python/Introdução.md",
-    "Python/Entrada e Saída de Dados.md",
-    "Python/Operadores",
-    "patinho-borracha.png",
+    "Python/8.1 - Utilizando Módulos.md",
     "Obsidian.md",
-    "Git e Github/Git.md",
-    "C/Como enviar alterações.md",
-    "Curso em Vídeo/Mundo 1 Python/7.1 – Operadores Aritméticos.md",
-    "Curso em Vídeo/Mundo 1 Python/10.1 – Condições (Parte 1).md",
-    "Curso em Vídeo/Mundo 1 Python/9.1 – Manipulando Texto.md",
-    "Curso em Vídeo/Mundo 1 Python/8.1 - Utilizando Módulos.md",
+    "Visualização em gráfico/Python.md",
+    "Visualização em gráfico/Git e Github.md",
+    "Visualização em gráfico/C.md",
     "Git e Github/Sistemas de Controle de Versão (VCS).md",
     "Git e Github/GitHub.md",
-    "Git e Github",
-    "Curso em Vídeo/Mundo 1 Python/Mundo 1 Python.md",
-    "Curso em Vídeo/Mundo 1 Python/11.1 – Cores no Terminal.md",
-    "Python/Tipos de Dados.md",
-    "Curso em Vídeo/Mundo 1 Python/5.1 – Instalando o PyCharm e o QPython3.md",
-    "Curso em Vídeo/Mundo 1 Python/4.1 – Primeiros Comandos em Python3.md",
-    "Curso em Vídeo/Mundo 1 Python/3.1 – Instalando o Python3 e o IDLE.md",
-    "Python/Modo interativo.md",
-    "Python/Sem título",
+    "Git e Github/Git.md",
+    "Git e Github/Como enviar alterações.md",
+    "C/C89 C90/1.5.1  Entrada e Saída de Caracteres.md",
+    "C/C89 C90/1.4 Constantes Simbólicas.md",
+    "C/C89 C90/1.3 A instrução For.md",
+    "C/C89 C90/1.2 Variáveis e Expressões Aritméticas.md",
+    "C/C89 C90/1.5.3 Contando Linhas.md",
+    "C/C89 C90/Primeiro Programa C.md",
+    "Python/Primeiro Programa Python.md",
+    "C/C89 C90/Introdução C.md",
+    "C/C89 C90/Arrays.md",
     "README.md",
-    "Curso em Vídeo/Mundo 1 Python/1.1 - Seja um Programador.md",
-    "Curso em Vídeo/Mundo 1 Python/2.1 Para que serve o Python.md",
-    "C/C23/Level 0 Encounter/1.2 Compiling and running.md",
+    "patinho-borracha.png",
+    "Visualização em gráfico",
+    "Python/Introdução Python.md",
+    "C/C89 C90/Passagem por Valor.md",
+    "C/C89 C90/1.5.4 Contando Palavras.md",
+    "C/C89 C90/1.5.2 Contando caracteres.md",
+    "C/C89 C90/Funções.md",
+    "C/C89 C90/Arrays de Caracteres.md",
+    "C/C89 C90/~1.10 Variáveis Externas e Escopo.md",
+    "Python/Operadores",
+    "Git e Github",
+    "Python/Sem título",
     "Python/DIO/Untitled",
     "Python/DIO",
     "Python/Curso em Vídeo/Mundo 2 Python",
     "ex01.10.c",
     "ex01.14.c",
     "ex01.18.c",
-    "ex01.13.c",
     "Sem título 1.canvas",
     "Sem título.canvas",
     "Metas/Metas.canvas",

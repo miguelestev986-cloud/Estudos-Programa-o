@@ -1,3 +1,5 @@
+### Fontes
+Curso em Vídeo Python - Mundo 1
 
 ## Oque é ANSI
 

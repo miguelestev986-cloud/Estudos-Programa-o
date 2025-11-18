@@ -7,21 +7,9 @@
 # Do que se trata esse repositório?
 
 Este é um repositório criado para *guardar anotações dos estudos de algumas linguagens de programação*, como C e Python, e outros conteúdos relacionados à área de programação.
-No momento, estamos lançando anotações de estudos da *linguagem C*, com os livros ❝The C Programming Language 2nd Edition❞ e ❝Modern C❞. 
-*Ainda que confiáveis, as anotações têm outras fontes além dos livros e também são revisadas pelo ChatGPT. Sinta-se a vontade para usar essas anotações em seus estudos!* (É recomendado abrir os arquivos pelo Obsidian, e para ter as formatações usar o tema "Obsidianite" nele)
+No momento, estamos lançando anotações dos estudos da *linguagem Python*.
+Ainda que tenhamos fontes confiáveis, as anotações são revisadas pelo ChatGPT. *Sinta-se a vontade para usar essas anotações em seus estudos!* (É recomendado abrir os arquivos pelo Obsidian, e para ter as formatações usar o tema "Obsidianite" nele)
 
-# Arquivos
-
-## C
-
-C23  - Anotações do livro "Modern C Third Edition"
-
-C89/C90 -  Anotações do livro "The C Programming Language"(mesmo que na sintaxe antiga, é um clássico da linguagem). Os outros conteúdos do livro após o primeiro capítulo não serão anotados.
-
-## Python
-
-Anotações de estudos da linguagem Python (Principalmente do Bootcamp DIO [Suzano - Python Developer](https://www.dio.me/bootcamp/suzano-python-developer), mas serão organizadas por tópicos e não aulas). 
-
-### Posso contribuir?
+# Posso contribuir?
 
 Sim, se você já tem suas próprias anotações e gostaria de compartilhá-las com nosso repositório ficaríamos muito feliz em tê-las, contate esse email: miguelestev986@gmail.com. Fique tranquilo(a), suas anotações mencionarão seu user do Github!

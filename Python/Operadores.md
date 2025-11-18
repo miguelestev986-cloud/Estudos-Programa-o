@@ -1,4 +1,6 @@
 ##### Fontes
+Bootcamp DIO [Suzano - Python Developer](https://www.dio.me/bootcamp/suzano-python-developer)
+Curso em Vídeo Python - Mundo 1
 
 # **Operadores Aritméticos
 
@@ -16,6 +18,8 @@ print(5//2)
 ```
 - % (Resto da Divisão)
 - ** (Exponenciação)
+- ** (1/2) (Raiz quadrada)
+- ** (1/3) (Raiz cúbica)
 
 Eles têm uma ordem de precedência (Quais operações devem ser executadas primeiro), que é:
 
@@ -24,7 +28,7 @@ Eles têm uma ordem de precedência (Quais operações devem ser executadas prim
 3. Multiplicação, divisão, divisão inteira e resto da divisão
 4. Mais e menos
 
-Assim como na matemática, se os operados têm a mesma precedência, será executado o que vier primeiro (Da esquerda para a direita)
+Assim como na matemática, se os operados têm a mesma precedência, será executado o que vier primeiro da esquerda para a direita.
 
 # **Operadores de comparação
 
@@ -46,9 +50,9 @@ São operadores utilizados para definir o valor inicial ou sobrescrever o valor 
 ```python
 saldo = 1500
 saldo += 200
-"""é como se estivéssemos dizendo 'saldo recebe saldo + 200' ou saldo = saldo + 200"""
+#é como se estivéssemos dizendo 'saldo recebe saldo + 200' ou saldo = saldo + 200
 print(saldo)
->>> 700
+>>> 1700
 ```
 De mesmo modo da atribuição com adição temos:
 - -= (Atribuição com subtração)
@@ -67,14 +71,14 @@ São operadores utilizados em conjunto com os operadores de comparação, para m
 
 Ex.:
 ```python
-print((100 * 4)/2 = 200 and 100 * 2 = 400)
+print((100 * 4)/2 == 200 and 100 * 2 == 400)
 >>> False
 
-print((100 * 4)/2 = 200 or 100 * 2 = 400)
+print((100 * 4)/2 == 200 or 100 * 2 == 400)
 >>> True
-"""Apenas uma das expressões precisa ser verdadeira"""
+#Apenas uma das expressões precisa ser verdadeira
 
-print( not 100 * 2 = 400)
+print( not 100 * 2 == 400)
 >>> True
 ```
 

@@ -5,10 +5,13 @@ Curso em Vídeo Python - Mundo 1
 A função *input* é utilizada quando queremos ler dados da entrada padrão (teclado). Ela recebe um argumento do tipo string, que é exibido para o usuário na saída padrão (tela). A função lê a entrada (ela abre permite que o usuário escreva), a converte para string e retorna o valor ao chamador. Exemplos:
 
 ```python
-idade = int(input("Qual sua idade?"))
+idade = int(input('Qual sua idade?'))
 print(f'Sua idade é {idade}')
 ```
-Será exibido na saída: Qual o seu nome? e o usuário poderá digitar. A entrada do usuário será convertida para de tipo inteiro e logo atribuído à idade.
+Será exibido na saída: Qual sua idade? e o usuário poderá digitar. A entrada do usuário será convertida para de tipo inteiro e logo atribuído à idade.
+
+obs: O argumento de print() é uma f-string (uma string formatada). Elas são usadas quando queremos substituir valores dentro de uma string.
+Como no exemplo, {idade} será substituída pelo valor que for atribuído à variável idade. É uma alternativa moderna para .format().
 
 ```python
 nome = input()
@@ -29,7 +32,7 @@ Na saída: Olá, mundo!
 ```python
 print(7+5)
 ```
-Na saída: 11
+Na saída: 12
 
 ```python
 print('7+5')
