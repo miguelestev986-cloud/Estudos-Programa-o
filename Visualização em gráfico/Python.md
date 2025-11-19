@@ -12,5 +12,5 @@ Autor: miguelestev986-cloud
 [[Operadores]]
 [[Indentação]]
 [[Estruturas Condicionais]]
-[[Estruturas de Repetição]]
+[[~Estruturas de Repetição]]
 [[Cores no Terminal]]

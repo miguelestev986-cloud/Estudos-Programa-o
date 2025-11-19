@@ -1,12 +1,15 @@
 ### Fontes
 Bootcamp DIO [Suzano - Python Developer](https://www.dio.me/bootcamp/suzano-python-developer)
+Curso em Vídeo Python - Mundo 2
 # **O que são
 
 São estruturas utilizadas para repetir um trecho de código determinado número de vezes. Esse número pode ser conhecido previamente ou determinado através de uma expressão lógica.
 
 # **for
 
-Usamos o laço de repetição for quando sabemos o número exato de vezes que nosso bloco de código deve ser executado, ou quando queremos percorrer um objeto iterável
+Usamos o laço de repetição for quando sabemos o número exato de vezes que nosso bloco de código deve ser executado, ou quando queremos percorrer um objeto iterável (Em essência, um iterável é um objeto que pode retornar um iterador, permitindo o acesso sequencial a seus elementos um por vez).
+
+
 
 # **for/else
 

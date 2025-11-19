@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Estruturas de Repetição.md",
+                "file": "Python/~Manipulação de Strings.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Estruturas de Repetição"
+              "title": "~Manipulação de Strings"
             }
           }
         ],
@@ -103,8 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "9ace18920b0143b7",
@@ -209,11 +208,11 @@
   "active": "cfe8763724f00aaf",
   "lastOpenFiles": [
     "Python/~Módulos.md",
+    "Python/~Estruturas de Repetição.md",
     "Python/~Manipulação de Strings.md",
     "patinho-borracha.png",
     "README.md",
     "Obsidian.md",
-    "Python/Estruturas de Repetição.md",
     "Python/Operadores.md",
     "Visualização em gráfico/Git e Github.md",
     "Visualização em gráfico/Python.md",

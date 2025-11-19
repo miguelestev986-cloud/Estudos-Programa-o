@@ -1,7 +1,7 @@
 ### Fontes
 Curso em Vídeo Python - Mundo 1
 
-# **Fateamento de Strings
+# **Fatiamento de Strings
 
 Quando usamos colchetes depois de uma variável que armazena um valor de texto, podemos pegar apenas um caractere.
 
