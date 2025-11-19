@@ -1,5 +1,9 @@
 Nota feita para conectar os assuntos relacionados à Python.
 
+# **Anotações
+
+Autor: miguelestev986-cloud
+
 [[Introdução Python]]
 [[Primeiro Programa Python]]
 [[Entrada e Saída de Dados]]

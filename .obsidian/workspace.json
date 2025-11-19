@@ -22,13 +22,17 @@
             }
           },
           {
-            "id": "424b3d0d336efcd4",
+            "id": "cfe8763724f00aaf",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "type": "markdown",
+              "state": {
+                "file": "Visualização em gráfico/Python.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Python"
             }
           }
         ],
@@ -201,12 +205,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "424b3d0d336efcd4",
+  "active": "cfe8763724f00aaf",
   "lastOpenFiles": [
+    "Visualização em gráfico/Git e Github.md",
     "Python/8.1 - Utilizando Módulos.md",
     "Obsidian.md",
     "Visualização em gráfico/Python.md",
-    "Visualização em gráfico/Git e Github.md",
     "Visualização em gráfico/C.md",
     "Git e Github/Sistemas de Controle de Versão (VCS).md",
     "Git e Github/GitHub.md",
