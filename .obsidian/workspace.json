@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Visualização em gráfico/Python.md",
+                "file": "Python/Estruturas de Repetição.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Python"
+              "title": "Estruturas de Repetição"
             }
           }
         ],
@@ -103,7 +103,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "9ace18920b0143b7",
@@ -207,9 +208,14 @@
   },
   "active": "cfe8763724f00aaf",
   "lastOpenFiles": [
-    "Visualização em gráfico/Git e Github.md",
-    "Python/8.1 - Utilizando Módulos.md",
+    "Python/~Módulos.md",
+    "Python/~Manipulação de Strings.md",
+    "patinho-borracha.png",
+    "README.md",
     "Obsidian.md",
+    "Python/Estruturas de Repetição.md",
+    "Python/Operadores.md",
+    "Visualização em gráfico/Git e Github.md",
     "Visualização em gráfico/Python.md",
     "Visualização em gráfico/C.md",
     "Git e Github/Sistemas de Controle de Versão (VCS).md",
@@ -225,16 +231,10 @@
     "Python/Primeiro Programa Python.md",
     "C/C89 C90/Introdução C.md",
     "C/C89 C90/Arrays.md",
-    "README.md",
-    "patinho-borracha.png",
     "Visualização em gráfico",
     "Python/Introdução Python.md",
     "C/C89 C90/Passagem por Valor.md",
     "C/C89 C90/1.5.4 Contando Palavras.md",
-    "C/C89 C90/1.5.2 Contando caracteres.md",
-    "C/C89 C90/Funções.md",
-    "C/C89 C90/Arrays de Caracteres.md",
-    "C/C89 C90/~1.10 Variáveis Externas e Escopo.md",
     "Python/Operadores",
     "Git e Github",
     "Python/Sem título",

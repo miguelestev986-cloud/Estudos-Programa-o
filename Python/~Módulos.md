@@ -1,8 +1,10 @@
-## Oque são módulos?
+### Fontes
+Curso em Vídeo Python - Mundo 1
+# **Oque são 
 
 Módulos são bibliotecas(meio que extensões) que você pode importar pro seu código para que ele tenha algo além do que a linguagem oferece. 
 
-## Como usá-los?
+# **Como usá-los
 
 Por exemplo, podemos ter a biblioteca "doces". Primeiro, precisamos baixar essa biblioteca, e depois, importá-la para o nosso código.
 
@@ -53,7 +55,7 @@ print(f'O número {num} tem como parte inteira {trunc(num)}.')
 ```
 Observemos que não importando a biblioteca completa, retira-se a necessidade de usar "math."
 
-## Biblioteca math
+# **Biblioteca math
 
 
 É uma biblioteca que já vem por padrão instalada no Python, que realiza operações matemáticas.
@@ -67,23 +69,13 @@ Algumas funcionalidades são:
 6. Para calculamos fatorial, usamos factorial();
 7. E outras(math.).
 
-## Biblioteca random
-
+# **Biblioteca random
 
 É uma biblioteca que podemos baixar pelo python.org que gera números aleatórios e outras funções.
 
 1. Para gerarmos um número aleatório entre 0 e 1, usamos random();
 2. Para encolhermos um número inteiro aleatório dentro de um conjunto de números, usamos randint()
  
-## Desafios
-
-[[desafio016]]
-[[desafio017]]
-[[desafio018]]
-[[desafio019]]
-[[desafio020]]
-[[desafio021]]
-
 
 
 
