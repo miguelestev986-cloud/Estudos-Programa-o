@@ -103,7 +103,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "9ace18920b0143b7",
@@ -207,9 +208,10 @@
   },
   "active": "cfe8763724f00aaf",
   "lastOpenFiles": [
-    "Python/~Módulos.md",
-    "Python/~Estruturas de Repetição.md",
     "Python/~Manipulação de Strings.md",
+    "Python/~Estruturas de Repetição.md",
+    "Python/Entrada e Saída de Dados.md",
+    "Python/~Módulos.md",
     "patinho-borracha.png",
     "README.md",
     "Obsidian.md",
