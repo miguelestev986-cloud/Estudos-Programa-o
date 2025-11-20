@@ -56,7 +56,11 @@ Podemos verificar o tipo primitivo de uma variável com type()
 
 Podemos verificar os tipos de uma variável com o comando ".is" ; alguns ".is" são: 
 
-1. variável.isnumeric() verifica se é possível converter o valor da variável em um valor numérico e nos retorna True ou False;
-2. variável.isalpha() verifica se é o valor da variável é alfabético e nos retorna True ou False;
-3. variável.isalnum() verifica se o valor da variável é alfanumérico e nos retorna True ou False;
-4. Existem outros; eles estão no exercício 4.
+1. .isnumeric() verifica se é possível converter o valor da variável em um valor numérico e nos retorna True ou False;
+2. .isalpha() verifica se é o valor da variável é alfabético e nos retorna True ou False;
+3. .isalnum() verifica se o valor da variável é alfanumérico e nos retorna True ou False;
+4. .isspace() verifica se a string é só espaços/brancos;
+5. .islower() verifica se todas as letras estão em minúsculo;
+6. .isupper() verifica se todas as letras estão em maiúsculo.
+
+Há outros, mas esses são os principais.

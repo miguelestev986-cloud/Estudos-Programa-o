@@ -10,9 +10,6 @@ print(f'Sua idade é {idade}')
 ```
 Será exibido na saída: Qual sua idade? e o usuário poderá digitar. A entrada do usuário será convertida para de tipo inteiro e logo atribuído à idade.
 
-obs: O argumento de print() é uma f-string (uma string formatada). Elas são usadas quando queremos substituir valores dentro de uma string.
-Como no exemplo, {idade} será substituída pelo valor que for atribuído à variável idade. É uma alternativa moderna para .format().
-
 ```python
 nome = input()
 print(f'Seu nome é {nome}')

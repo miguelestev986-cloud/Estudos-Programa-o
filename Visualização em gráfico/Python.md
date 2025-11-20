@@ -12,5 +12,7 @@ Autor: miguelestev986-cloud
 [[Operadores]]
 [[Indentação]]
 [[Estruturas Condicionais]]
-[[~Estruturas de Repetição]]
+[[Estruturas de Repetição]]
+[[Manipulação de Strings]]
+[[~Módulos]]
 [[Cores no Terminal]]
