@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/~Variáveis e Constantes.md",
+                "file": "Python/Funções.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "~Variáveis e Constantes"
+              "title": "Funções"
             }
           }
         ],
@@ -103,7 +103,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "9ace18920b0143b7",
@@ -207,11 +208,13 @@
   },
   "active": "cfe8763724f00aaf",
   "lastOpenFiles": [
+    "Python/Introdução Python.md",
+    "Python/Funções.md",
+    "Python/~Variáveis e Constantes.md",
     "Python/~Tipos Primitivos.md",
     "Python/~Primeiro Programa Python.md",
     "Python/Manipulação de Strings.md",
     "Python/~Operadores.md",
-    "Python/Introdução Python.md",
     "Python/Indentação.md",
     "Python/Estruturas de Repetição.md",
     "Python/Estruturas Condicionais.md",
@@ -232,8 +235,6 @@
     "C/C89 C90/1.4 Constantes Simbólicas.md",
     "C/C89 C90/1.3 A instrução For.md",
     "C/C89 C90/1.2 Variáveis e Expressões Aritméticas.md",
-    "C/C89 C90/1.5.3 Contando Linhas.md",
-    "C/C89 C90/Primeiro Programa C.md",
     "Visualização em gráfico",
     "Python/Operadores",
     "Git e Github",
