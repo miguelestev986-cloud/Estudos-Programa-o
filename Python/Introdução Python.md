@@ -4,7 +4,7 @@ Curso em Vídeo Python - Mundo 1
 
 # **História
 
-A história do Python começa no final do ano 1989, quando o programador holandês Guido van Rossum iniciou o projeto como um hobby para manter-se ocupado. Inspirado pelo grupo de comédia britânico Monty Python's Flying Circus , ele lançou a primeira versão em 1991 no Centrum Wiskunde & Informática (CWI). Python tem tipagem dinâmica e forte, é mutiplataforma e multiparadigma e tem uma comunidade gigante e muito ativa.
+A história do Python começa no final do ano 1989, quando o programador holandês Guido van Rossum iniciou o projeto como um hobby para manter-se ocupado. Inspirado pelo grupo de comédia britânico Monty Python's Flying Circus , ele lançou a primeira versão em 1991 no Centrum Wiskunde & Informática (CWI). Python tem tipagem dinâmica e forte, é multiplataforma e multiparadigma e tem uma comunidade gigante e muito ativa.
 
 # **Objetivos
 
@@ -18,12 +18,12 @@ Python foi influenciada pela linguagem ABC, que era uma linguagem pensada para i
 
 # **Aplicações
 
-Python é uma linguagem muito versátil. Ele pode ser usado para automações, desenvolvimento web, desenvolvimento de jogos, desenvolvimento de software, análise e ciência de dados e IA.
+Python é uma linguagem muito versátil. Ela pode ser usado para automações, desenvolvimento web, desenvolvimento de jogos, desenvolvimento de software, análise e ciência de dados e IA.
 Algumas empresas que utilizam o Python são: Google, Facebook/Instagram, Netflix, Spotify, Dropbox, Reddit, Uber e Amazon.
 
 # **instalando o Python e Configurando uma IDE
 
-No Linux ou MacOS, o Python costuma vir baixado por padrão. Para verificar, digite no terminal:
+No Linux ou MacOS, o Python *costuma* vir baixado por padrão. Para verificar, digite no terminal:
 
 ```
 python -V
@@ -35,22 +35,21 @@ Ou
 python3 -V
 ```
 
-Se você quer a versão mais recente ou é usuário Windows, assista esses tutoriais para baixar a linguagem e configurá-la para o Visual Studio Code.
+Se você quer a versão mais recente ou não tem o Python baixado, assista esses tutoriais para baixar a linguagem e configurá-la para o Visual Studio Code.
 
-"Por que usar o VS Code com minha IDE(Ambiente de Desenvolvimento Integrado)?" Ele é um editor de código-fonte leve, intuitivo, amigável, multiplataforma e gratuito, com suporte nativo para diversas linguagens de programação, é escolhido tanto para desenvolvedores iniciantes quanto mais avançados. Mas sinta-se à vontade para utilizar qualquer outra IDE.
+"Por que usar o VS Code como minha IDE(Ambiente de Desenvolvimento Integrado)?" Ele é um editor de código-fonte leve, intuitivo, amigável, multiplataforma e gratuito, com suporte nativo para diversas linguagens de programação, é escolhido tanto para desenvolvedores iniciantes quanto mais avançados. Mas sinta-se à vontade para utilizar qualquer outra IDE.
 
-Instalação do VS Code no Windows e Linux - 2025 (Professor Lau)
-https://youtu.be/-FO_NfxlfFU
+[Instalação do VS Code no Windows e Linux - 2025 (Professor Lau)](https://youtu.be/-FO_NfxlfFU)
 
-Instalação do Python no Windows/Linux e configuração no VS Code - 2025 (Professor Lau)
-https://youtu.be/3KItyhwGJ1c
+[Instalação do Python no Windows/Linux e configuração no VS Code - 2025 (Professor Lau)](https://youtu.be/3KItyhwGJ1c)
+
 Além das extensões sugeridas no vídeo, é recomendado baixar estas também:
 
+- autoDocstring - Python Docstring Generator
 (Gera documentação automática pro código)
-autoDocstring - Python Docstring Generator
 
+- IntelliCode
 (Assistente de IA para desenvolvimento Python e outras linguagens)
-IntelliCode
 
+- Dracula Theme Official
 (Tema mais usado no VS Code, deixa ele com um melhor aspecto mas vai de gosto)
-Dracula Theme Official

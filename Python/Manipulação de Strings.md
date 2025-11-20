@@ -1,9 +1,9 @@
 ### Fontes
 Curso em Vídeo Python - Mundo 1
 Bootcamp DIO [Suzano - Python Developer](https://www.dio.me/bootcamp/suzano-python-developer)
-# **Fatiamento de Strings
+# **Fracionamento de Strings
 
-O fatiamento de strings é uma técnica utilizada para retornar substrings (partes da string original), informando o início (start), o fim (stop) e o passo (step). Exemplos de uso:
+O fracionamento de strings é uma técnica utilizada para retornar substrings (partes da string original), informando o início (start), o fim (stop) e o passo (step). Exemplos de uso:
 
 1. 
 ```python
@@ -39,6 +39,7 @@ print(frase[0:5:2])
 
 >>>Cro
 ```
+Porque pega os índices 0, 2 e 4.
 
 4. Nós podemos usar números negativos para começar do fim para o início, assim como nesse exemplo: 
 
@@ -48,7 +49,7 @@ print(frase[::-1])
 
 >>>nohtyP odeíV me osruC
 ```
-Isso espelha a string porque pega os caracteres do final até o início.
+No exemplo, o step(-1) espelha a string porque pega os caracteres do final até o início (Já que nem o final nem o início são informados).
 # **Análise de Strings
 
 Algumas funções que podemos utilizar para analisar strings são:
@@ -56,8 +57,8 @@ Algumas funções que podemos utilizar para analisar strings são:
 1. len() verifica quantos caracteres a string tem;
 2. .count('x') verifica quantas vezes o caractere 'x' aparece na string;
 3. Com .count("x", 0, 14) podemos utilizar o fracionamento para verificar quantas vezes o caractere "x" aparece dentro de uma cadeia de caracteres.
-4. .find('x') verifica em que caractere se inicia "x".  Se não há  "x" na string pertencente à variável, o programa nos devolve -1 (erro)
-5.  'x' in nome_variável verifica se "x" existe na variável e nos devolve True o False;
+4. .find('x') verifica em que caractere se inicia "x".  Se não há  "x" na string pertencente à variável, o programa nos devolve -1 ;
+5.  'x' in nome_variável verifica se "x" existe na variável e nos devolve True ou False.
 # **Transformação de Strings
 
 Algumas funções que podemos utilizar para transformar strings são:
@@ -72,7 +73,7 @@ Algumas funções que podemos utilizar para transformar strings são:
 
 # **Divisão e união de Strings
 
-1. .split() separa as palavras (por meio dos espaços) e cria uma lista de strings com elas. Por exemplo:
+1. .split() separa as palavras (por meio dos espaços e brancos) e cria uma lista de strings com elas. Por exemplo:
 
 ```python
 frase = 'Curso em Vídeo'
@@ -82,7 +83,7 @@ print(frases[0])
 Teríamos na saída: "Curso"
 
 2. 'x'.join(nome_variável) junta os caracteres da string com o caractere "x".
-3. .center(x, 'y') centraliza a string. Esse método possui dois argumentos: o primeiro define o número de caracteres da nova string e o segundo (que é opcional) define qual caractere vai ser usado na centralização. Ex.:
+3. .center(x, 'y') retorna uma nova string com preenchimento à esquerda e à direita, centralizando-a. Esse método possui dois argumentos: o primeiro define o número de caracteres da nova string e o segundo (que é opcional) define qual caractere vai ser usado na centralização. Ex.:
 
 ```python
 curso = 'Python'
@@ -111,7 +112,7 @@ Você também pode embaralhar e escolher a ordem dos valores:
 ```python
 nome = 'Davi Brito'
 idade = 23
-print(f'O nome do calabreso é {1} e a idade dele é {0}.'.format(idade, nome))
+print('O nome do calabreso é {1} e a idade dele é {0}.'.format(idade, nome))
 
 >>> O nome do calabreso é Davi Brito e a idade dele é 23.
 ```

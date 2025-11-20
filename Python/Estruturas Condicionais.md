@@ -6,14 +6,12 @@ A estrutura condicional permite o desvio de fluxo de controle, quando determinad
 
 # **if
 
-Para criar um estrutura condicional composta por um único desvio, podemos usar if. O comando testará uma expressão lógica e caso essa seja verdadeira, executará o bloco de código.
+Para criar um estrutura condicional composta por um único desvio, podemos usar if. Ele avalia a expressão lógica e, caso essa seja verdadeira, executa o bloco de código.
 
 ```python
 idade = int(input('Qual sua idade'))
 if idade >= 18:
 	print('Você é maior de idade.')
-if idade < 18:
-	print('Você é menor de idade.')
 ```
 
 # **if else
@@ -54,21 +52,21 @@ else:
 	if idade >= 16:
 		emancipado = input('Você é emancipado? (s/n)')
 		if emancipado == 's':
-			print('Você tem os direitos e deveres de um maior de idade.)
+			print('Você tem os direitos e deveres de um maior de idade.')
 		else:
-			print('Você é menor de idade.)
+			print('Você é menor de idade.')
 	else:
 		print('Você é menor de idade.')
 ```
 
 # **if Ternário
 
-O if ternário permite escrever uma condição em uma única linha. Ele é composto por três partes, a primeira é o retorno caso a expressão retorne verdadeiro, a segunda é a expressão lógica e a terceira o retorno caso a condição seja falsa (É como o laço de repetição for). Ex.:
+O if ternário É uma forma resumida de escrever um if/else em uma única linha. Ele é composto por três partes, a primeira é o retorno caso a expressão retorne verdadeiro, a segunda é a expressão lógica e a terceira o retorno caso a condição seja falsa. Ex.:
 
 ```python
 saldo = 1000
-saque = int(input('Quanto você deseja sacar? R$))
-status = 'Sucesso' if saque >= saldo else 'Falha'
-print(f'{status} ao realizar o saque.)
+saque = int(input('Quanto você deseja sacar? R$'))
+status = 'Sucesso' if saque <= saldo else 'Falha'
+print(f'{status} ao realizar o saque.')
 
 ```

@@ -3,12 +3,12 @@ Bootcamp DIO [Suzano - Python Developer](https://www.dio.me/bootcamp/suzano-pyth
 Curso em Vídeo Python - Mundo 2
 # **O que são
 
-São estruturas utilizadas para repetir um trecho de código diversas vezes. Isso pode acontecer por um número conhecido de repetições ou a partir de uma condição lógica. Esse número pode ser conhecido previamente ou determinado através de uma expressão lógica.
+São estruturas utilizadas para repetir um trecho de código diversas vezes. Isso pode acontecer por um número conhecido de repetições ou a partir de uma condição lógica.
 
 # **for
 
 O laço for em Python serve para percorrer elementos de uma sequência, como listas, strings ou valores gerados por range. Ele recebe cada item de um iterável (um objeto que pode retornar um iterador, permitindo o acesso sequencial a seus elementos um por vez) e executa o bloco de código uma vez para cada item.
-Usamos o laço de repetição for quando sabemos o número exato de vezes que nosso bloco de código deve ser executado, ou quando queremos percorrer um objeto iterável. Por exemplo:
+Usamos o for quando queremos percorrer um iterável que ser uma sequência com tamanho conhecido ou não. Por exemplo:
 
 ```python
 for letra in 'Python':
@@ -69,7 +69,7 @@ while num < 500:
     if num == 369:
         break
 ```
-Ele vai de 0 até 499, e pula o 369.
+Ele vai de 0 até 368 e sai do loop quando chega em 369
 
 # **continue
 
@@ -87,7 +87,7 @@ while num < 500:
 
 # **range
 
-A função range() é uma função padrão do Python que é usada produzir uma sequência de números inteiros a partir de um início (inclusivo) para um fim (exclusivo).
+A função range() é uma função padrão do Python que é usada para produzir uma sequência de números inteiros a partir de um início (inclusivo) para um fim (exclusivo).
 Ela pode receber até três argumentos: start (opcional, por padrão ele começa em 0), stop (obrigatório) e step (opcional).
 
 ```python
@@ -96,4 +96,4 @@ print(list(range(2, 11, 3)))
 >>>[2, 5, 8]
 ```
 Começa em 2, pula de 3 em 3 e vai até 11 (mas não considera 11 porque ele é exclusivo)
-Usamos list() porque range() não guarda os números, ele gera sob demanda (é mais leve, mais rápido e usa menos memória).
+Usamos list() porque range() não guarda os números, ele calcula sob demanda (é mais leve, mais rápido e usa menos memória).
