@@ -42,3 +42,8 @@ def antec_suces(número)
 	sucessor = número + 1
 	return antecessor, sucessor
 ```
+
+# **Argumentos Nomeados
+# **Args e kwargs
+
+Podemos combinar parâmetros obrigatórios com args e kwargs. Quando esses são definidos (* args e ** kwargs), o método recebe os valores como tupla e dicionário respectivamente.
