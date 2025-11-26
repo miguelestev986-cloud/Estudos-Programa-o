@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "Funções"
             }
+          },
+          {
+            "id": "3b8dd17548e18c05",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Notas de Lançamento 1.10.6"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -206,7 +218,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cfe8763724f00aaf",
+  "active": "3b8dd17548e18c05",
   "lastOpenFiles": [
     "Python/Introdução Python.md",
     "Python/Funções.md",
